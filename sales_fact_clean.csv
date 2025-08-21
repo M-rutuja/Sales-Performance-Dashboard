@@ -1,0 +1,995 @@
+order_id,date,country,category,customer_name,sales_manager,sales_rep,device_type,order_value_eur,cost,profit_eur,profit_margin
+70-0511466,2020-08-23,Sweden,Games,Konopelski LLC,Maxie Marrow,Tarrah Castelletti,Tablet,98320.37,77722.25,20598.119999999995,0.20950002527451836
+77-3489084,2020-05-15,France,Games,Wisoky Inc,Othello Bowes,Amelina Piscopiello,Tablet,46296.26,40319.41,5976.8499999999985,0.12910006121444795
+65-8218141,,Portugal,Appliances,Hegmann Group,Celine Tumasian,Corene Shirer,PC,140337.34,115708.14,24629.199999999997,0.17549997741157128
+29-5478106,2019-06-26,France,Electronics,Kirlin and Sons,Othello Bowes,Crysta Halls,Mobile,203604.46,175344.16,28260.29999999999,0.1388000046757325
+57-6602854,2019-09-24,Italy,Clothing,Labadie and Sons,Piggy Roscrigg,Joshua Prevost,PC,127075.41,110924.13,16151.279999999999,0.12709996371445897
+78-3301264,2020-01-25,Sweden,Clothing,Romaguera-Dietrich,Maxie Marrow,Alyosha Meah,PC,69681.43,55529.13,14152.299999999996,0.2031000224880574
+32-3124563,2019-06-21,France,Appliances,Connelly-Mohr,Othello Bowes,Avrit Chanders,PC,96795.99,81395.75,15400.240000000005,0.15909997924500802
+92-7042708,2019-01-15,Portugal,Smartphones,Wisoky Inc,Celine Tumasian,Aurelie Wren,PC,144725.34,115056.65,29668.690000000002,0.20499996752469196
+15-2994585,2020-11-28,Germany,Accessories,Johns and Sons,Rickard Doogood,Casie MacBain,Mobile,32695.37,26375.35,6320.02,0.19330015228455896
+48-0713329,,Portugal,Electronics,"Jacobson, Marvin and Brown",Celine Tumasian,Aurelie Wren,Tablet,121318.55,102890.26,18428.290000000008,0.1519000185874296
+16-0987104,2020-10-31,Portugal,Clothing,"Fisher, Morar and Skiles",Celine Tumasian,Hortense Gerring,PC,147092.62,117806.48,29286.14,0.19909999563540307
+91-8142232,2019-06-26,Portugal,Accessories,Johns and Sons,Celine Tumasian,Hortense Gerring,PC,187874.45,160031.46,27842.99000000002,0.14819998142376475
+85-9787047,2019-07-27,Luxembourg,Smartphones,O'Connell-Mitchell,Ilsa Kob,Jocelyn Laurentino,Tablet,256603.66,209799.15,46804.51000000001,0.18240000941529833
+06-2196763,2019-06-15,Sweden,Electronics,"Hamill, Kulas and Roob",Maxie Marrow,Madelon Bront,PC,69626.39,57295.56,12330.830000000002,0.17709994730446318
+51-9029547,2020-01-28,Portugal,Games,Friesen-Rath,Celine Tumasian,Corene Shirer,PC,153029.72,125117.1,27912.619999999995,0.18239999393581846
+74-1131921,,France,Beauty,Friesen and Sons,Othello Bowes,Maighdiln Upcraft,PC,65193.88,53113.45,12080.43,0.18530006190765147
+26-9787272,,Sweden,Clothing,Kihn Inc,Maxie Marrow,Anita Woakes,PC,15817.05,13743.44,2073.6099999999988,0.13109966776358417
+15-6838362,2020-05-29,France,Games,"Lueilwitz, Kerluke and Lesch",Othello Bowes,Avrit Chanders,PC,54079.04,45031.62,9047.419999999998,0.16729993727699305
+31-6585710,2020-08-24,Portugal,Appliances,Labadie and Sons,Celine Tumasian,Aurelie Wren,PC,168757.23,136895.86,31861.370000000024,0.18880002948614422
+38-0584273,2019-01-19,Portugal,Beauty,"Shanahan, Schaden and Parker",Celine Tumasian,Brynn Dempster,Mobile,101923.36,86115.05,15808.309999999998,0.15509996923178354
+27-4115444,2019-11-18,France,Beauty,Wiza and Sons,Othello Bowes,Crysta Halls,PC,89160.66,75367.51,13793.150000000009,0.15469995399316255
+70-8991739,,UK,Books,"Dickinson, Hyatt and Berge",Jessamine Apark,Jay Morefield,Mobile,77128.75,65536.3,11592.449999999997,0.15029998541399928
+27-3437546,2019-10-22,UK,Games,Schoen-Keeling,Jessamine Apark,Genevra Charrisson,PC,63979.04,56032.84,7946.200000000004,0.12420005051654423
+48-6452102,2019-03-18,Sweden,Appliances,Franecki-White,Maxie Marrow,Anita Woakes,Mobile,83897.88,69559.73,14338.150000000009,0.17090002750963443
+58-2028009,2019-09-19,Portugal,Clothing,Altenwerth-Konopelski,Celine Tumasian,Brynn Dempster,Mobile,121928.48,98408.48,23520.0,0.19289996889980093
+52-0695511,2020-01-31,Sweden,Other,"Fisher, Morar and Skiles",Maxie Marrow,Alyosha Meah,PC,149376.26,123653.67,25722.59000000001,0.1721999867984378
+30-3460885,2020-05-24,Portugal,Appliances,"Hamill, Kulas and Roob",Celine Tumasian,Corene Shirer,PC,138127.81,115240.03,22887.78,0.16570001363230186
+11-2653878,2020-07-20,Portugal,Electronics,"Spencer, Rogahn and Muller",Celine Tumasian,Corene Shirer,PC,206869.73,180928.27,25941.46000000002,0.12539997997773777
+65-0792739,,UK,Clothing,Wiza and Sons,Jessamine Apark,Winny Agnolo,PC,122627.2,100284.52,22342.679999999993,0.1822000339239581
+62-4331197,2020-01-13,Portugal,Clothing,Hessel-Stiedemann,Celine Tumasian,Corene Shirer,PC,92698.45,73454.25,19244.199999999997,0.20760001920204704
+00-1398218,2019-09-25,France,Books,Johns and Sons,Othello Bowes,Avrit Chanders,Mobile,173456.4,149866.33,23590.070000000007,0.13599999769394502
+34-1570975,2020-01-19,Sweden,Electronics,"Zieme, Bailey and Herzog",Maxie Marrow,Caro Morfield,PC,94085.5,77498.23,16587.270000000004,0.1762999612054993
+99-0862667,,France,Other,Friesen-Rath,Othello Bowes,Crysta Halls,PC,60068.71,47688.55,12380.159999999996,0.20609998117156164
+21-7461655,,Germany,Clothing,Morissette Group,Rickard Doogood,Casie MacBain,PC,58416.81,46745.13,11671.68,0.19980002331520672
+94-1762263,,Sweden,Electronics,"Hamill, Kulas and Roob",Maxie Marrow,Madelon Bront,Mobile,239423.57,199152.52,40271.05000000002,0.16820002308043447
+16-6855831,2019-09-28,UK,Games,Johns and Sons,Jessamine Apark,Jay Morefield,PC,53801.73,46785.98,7015.75,0.13040008193045094
+86-6107692,,Germany,Games,"Jacobson, Marvin and Brown",Rickard Doogood,Casie MacBain,PC,180519.86,145968.36,34551.5,0.19139999333037375
+80-2242820,2019-05-17,Portugal,Electronics,Johns and Sons,Celine Tumasian,Aurelie Wren,PC,100469.75,82566.04,17903.710000000006,0.1782000054742846
+21-4033151,2020-06-21,France,Clothing,Johns and Sons,Othello Bowes,Amelina Piscopiello,PC,128221.13,102217.88,26003.25,0.2028000377160925
+32-3534634,2019-07-20,UK,Accessories,Wisoky Inc,Jessamine Apark,Winny Agnolo,PC,164971.7,132686.74,32284.96000000002,0.19569998975581884
+88-8436664,2020-03-30,Germany,Electronics,"Fisher, Morar and Skiles",Rickard Doogood,Casie MacBain,PC,92868.37,79068.13,13800.23999999999,0.1486000023474084
+06-5566367,,Bulgaria,Smartphones,Friesen and Sons,Charil Alpe,Bernadine Fullagar,PC,145439.65,123710.97,21728.679999999993,0.1493999744911377
+89-5350599,2020-07-14,UK,Clothing,Armstrong-Little,Jessamine Apark,Winny Agnolo,PC,151632.33,120744.82,30887.50999999998,0.20370002887906546
+37-0756560,2020-09-23,Portugal,Clothing,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,PC,159514.03,138872.91,20641.119999999995,0.12940002832352737
+51-4531731,2020-02-15,Finland,Electronics,Johns and Sons,Hube Corey,Mellicent Mattys,Tablet,106115.85,93063.6,13052.25,0.1230000042406483
+39-3209780,,Germany,Books,Tillman and Sons,Rickard Doogood,Casie MacBain,PC,86704.08,75380.53,11323.550000000003,0.13059996715264152
+65-2022928,2019-04-19,Finland,Accessories,"Swaniawski, Runolfsson and Green",Hube Corey,Mellicent Mattys,PC,48946.74,38765.82,10180.919999999998,0.2079999607736899
+08-7576451,,Sweden,Books,Tillman and Sons,Maxie Marrow,Anita Woakes,PC,54078.92,46102.28,7976.639999999999,0.14749998705595452
+57-2968987,2019-03-19,Italy,Games,Hessel-Stiedemann,Piggy Roscrigg,Joshua Prevost,PC,26899.97,23198.53,3701.4400000000023,0.1376001534574203
+60-8646184,2020-07-24,France,Games,McGlynn-Bergstrom,Othello Bowes,Crysta Halls,PC,149500.61,125401.11,24099.499999999985,0.16120001115714502
+32-3418936,,France,Beauty,"Hamill, Kulas and Roob",Othello Bowes,Crysta Halls,PC,127946.33,111850.68,16095.650000000009,0.1258000131774003
+84-1343954,2019-02-19,Portugal,Books,Friesen-Rath,Celine Tumasian,Corene Shirer,PC,61994.02,54250.97,7743.049999999996,0.12489995002743806
+06-9596696,2019-10-27,Spain,Clothing,"Bashirian, Okuneva and Bechtelar",Emalia Dinse,Perri Aldersley,PC,39110.97,34315.97,4795.0,0.12259987415295504
+14-6700183,,Portugal,Beauty,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,PC,74532.02,59752.32,14779.700000000004,0.1983000058230007
+04-7976277,2019-02-22,France,Accessories,"Rowe, Hermiston and Kessler",Othello Bowes,Crysta Halls,PC,60592.4,52363.95,8228.450000000004,0.13580003432773755
+86-2962836,2020-08-21,Ireland,Books,Tillman and Sons,Glenine Suttaby,Palm Wetherald,Mobile,81358.58,68918.85,12439.729999999996,0.15290003832416932
+12-1257338,,France,Beauty,Wisoky Inc,Othello Bowes,Avrit Chanders,PC,117538.82,100719.02,16819.800000000003,0.14309995625275124
+03-9337803,,France,Clothing,"Schowalter, Lesch and Beahan",Othello Bowes,Ora Grennan,PC,56811.14,48221.3,8589.839999999997,0.15119992311367095
+28-0849652,2019-05-30,Finland,Appliances,Friesen-Rath,Hube Corey,Wat Bowkley,Tablet,163967.89,138208.53,25759.360000000015,0.15710002732852155
+91-3344544,2020-10-24,Portugal,Smartphones,Johns and Sons,Celine Tumasian,Brynn Dempster,PC,159057.92,139923.25,19134.670000000013,0.12030001398232802
+37-0857161,2019-06-21,Italy,Smartphones,"Swaniawski, Runolfsson and Green",Piggy Roscrigg,Joshua Prevost,PC,163203.64,140893.7,22309.940000000002,0.13670001477908214
+88-4621939,2020-06-15,Portugal,Other,Johns and Sons,Celine Tumasian,Corene Shirer,PC,249099.44,215695.2,33404.23999999999,0.13410002045769348
+52-7280101,,Portugal,Smartphones,Romaguera-Haley,Celine Tumasian,Corene Shirer,Mobile,108412.76,88594.91,19817.84999999999,0.18279997668171155
+39-1671087,2020-08-14,Luxembourg,Books,Hessel-Stiedemann,Ilsa Kob,Jocelyn Laurentino,PC,158362.33,133990.37,24371.959999999992,0.1538999836640443
+58-9821508,2019-10-13,Portugal,Games,Johns and Sons,Celine Tumasian,Smitty Culverhouse,PC,171884.0,146702.99,25181.01000000001,0.14650002327150874
+60-7777080,2019-03-14,Denmark,Books,Wyman Group,Modestia Byfford,Case Desorts,PC,22164.96,17938.1,4226.860000000001,0.19070009600739188
+12-4881666,,Sweden,Electronics,Dibbert Inc,Maxie Marrow,Tarrah Castelletti,PC,178304.35,153573.54,24730.809999999998,0.13869998123994168
+85-6263705,,Portugal,Games,Wisoky Inc,Celine Tumasian,Hortense Gerring,PC,38494.71,33113.15,5381.559999999998,0.13979998810226127
+23-5766200,2019-11-14,Portugal,Games,"Parisian, Steuber and Satterfield",Celine Tumasian,Hortense Gerring,PC,116157.89,97166.07,18991.819999999992,0.1635000429157244
+08-0446109,,France,Beauty,Altenwerth-Konopelski,Othello Bowes,Amelina Piscopiello,PC,56118.05,47711.57,8406.480000000003,0.1497999306818395
+56-6310976,2019-04-30,UK,Books,Johns and Sons,Jessamine Apark,Jay Morefield,PC,161773.31,138283.83,23489.48000000001,0.14519997149097097
+11-0955383,,Portugal,Outdoors,"Dickinson, Hyatt and Berge",Celine Tumasian,Aurelie Wren,PC,263571.82,216155.25,47416.57000000001,0.17989999841409451
+27-7169008,2019-03-23,Portugal,Appliances,"Abbott, Roberts and Torp",Celine Tumasian,Brynn Dempster,Tablet,41805.53,33352.45,8453.080000000002,0.20220004386979432
+94-3251589,,Portugal,Clothing,Tillman and Sons,Celine Tumasian,Aurelie Wren,PC,93902.04,80793.31,13108.729999999996,0.139600055547249
+57-2495984,,France,Electronics,Johns and Sons,Othello Bowes,Ora Grennan,PC,310539.0,248275.93,62263.07000000001,0.20050000161010376
+13-9607758,2019-02-19,Portugal,Books,Kihn Inc,Celine Tumasian,Aurelie Wren,PC,82357.57,65474.27,16883.30000000001,0.20499997753697696
+32-1940437,2020-08-29,France,Beauty,"Bashirian, Okuneva and Bechtelar",Othello Bowes,Maighdiln Upcraft,Tablet,50585.98,40999.94,9586.04,0.18949993654368266
+49-2458036,2020-08-18,Finland,Electronics,Homenick-Marvin,Hube Corey,Wat Bowkley,Tablet,33190.03,28397.39,4792.639999999999,0.14439998999699608
+14-1143584,2019-10-13,Bulgaria,Appliances,"Rowe, Hermiston and Kessler",Charil Alpe,Bernadine Fullagar,Mobile,78293.94,66236.67,12057.270000000004,0.15400004138251316
+42-2646312,,Portugal,Electronics,Schoen-Keeling,Celine Tumasian,Hortense Gerring,PC,64762.89,54238.92,10523.970000000001,0.16250000579035312
+70-3373325,2019-06-15,France,Electronics,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,PC,184221.2,150324.5,33896.70000000001,0.18399999565739453
+25-2355172,2020-08-18,Spain,Clothing,Romaguera-Dietrich,Emalia Dinse,Perri Aldersley,PC,134908.19,114388.65,20519.540000000008,0.1521000318809407
+07-3222085,,France,Smartphones,Smith Group,Othello Bowes,Ora Grennan,PC,122139.94,103684.6,18455.339999999997,0.15109995960371356
+44-1953194,,Ireland,Books,Smith Group,Glenine Suttaby,Bunnie Tonbridge,PC,361182.87,288368.4,72814.46999999997,0.20160000943566336
+36-3226083,,Sweden,Appliances,"Dickinson, Hyatt and Berge",Maxie Marrow,Madelon Bront,PC,79313.86,63316.25,15997.61,0.20170005595491128
+92-2645259,2019-05-23,Sweden,Beauty,Wiza and Sons,Maxie Marrow,Caro Morfield,PC,151315.26,121173.26,30142.000000000015,0.19920000137461358
+81-2373308,2020-06-22,France,Smartphones,Kihn Inc,Othello Bowes,Amelina Piscopiello,PC,52805.94,43791.97,9013.970000000001,0.1706999250463111
+92-4695001,2019-03-19,Portugal,Games,Johns and Sons,Celine Tumasian,Hortense Gerring,PC,69750.57,60731.82,9018.750000000007,0.12930001862350382
+37-8204282,,Portugal,Appliances,Johns and Sons,Celine Tumasian,Hortense Gerring,PC,228961.3,183764.34,45196.95999999999,0.19739999729211877
+82-1082124,2019-10-27,France,Electronics,Johns and Sons,Othello Bowes,Amelina Piscopiello,PC,148405.47,128845.63,19559.839999999997,0.13179999362557188
+06-5115020,,Bulgaria,Books,Hessel-Stiedemann,Charil Alpe,Bernadine Fullagar,PC,95960.77,76519.12,19441.65000000001,0.20259997913730796
+65-5818172,2020-05-18,France,Clothing,Johns and Sons,Othello Bowes,Amelina Piscopiello,PC,83340.04,73264.23,10075.809999999998,0.1208999899688073
+87-6162387,2019-06-24,Portugal,Smartphones,Johns and Sons,Celine Tumasian,Hortense Gerring,PC,183363.6,155033.92,28329.679999999993,0.15450002072385136
+53-1660551,2020-12-14,Portugal,Other,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,PC,290551.74,239530.86,51020.880000000005,0.17559998091906112
+53-1426071,2019-01-19,France,Smartphones,McGlynn-Prosacco,Othello Bowes,Ora Grennan,Mobile,80781.62,68971.35,11810.26999999999,0.14619996479397157
+46-2632808,2020-11-13,France,Smartphones,McGlynn-Prosacco,Othello Bowes,Crysta Halls,PC,123672.7,106036.97,17635.729999999996,0.14260002409585945
+82-4653018,2019-10-28,Portugal,Smartphones,"Keeling, Monahan and Pollich",Celine Tumasian,Hortense Gerring,PC,111639.29,97204.33,14434.959999999992,0.1292999982353882
+66-0265458,,Netherlands,Games,"Spencer, Rogahn and Muller",Denice Amberg,Nero Harbisher,PC,149956.93,130087.64,19869.289999999994,0.13249997849382483
+16-5450021,2020-12-30,UK,Smartphones,Johns and Sons,Jessamine Apark,Winny Agnolo,PC,167615.14,135567.12,32048.02000000002,0.19120003121436413
+30-8840089,,Ireland,Electronics,"Zieme, Bailey and Herzog",Glenine Suttaby,Bunnie Tonbridge,PC,84877.87,68454.0,16423.869999999995,0.19350002538942124
+43-5417299,,Ireland,Electronics,"Christiansen, Donnelly and Bechtelar",Glenine Suttaby,Palm Wetherald,PC,65831.42,52487.39,13344.029999999999,0.20270001771190715
+59-1230573,,Ireland,Appliances,Johns and Sons,Glenine Suttaby,Bunnie Tonbridge,PC,80719.44,64422.19,16297.25,0.20189993884992263
+95-8015610,,France,Games,Stehr-Bogan,Othello Bowes,Crysta Halls,PC,146325.53,118333.46,27992.069999999992,0.19129997342227287
+61-4937643,,Germany,Electronics,"Leffler, Prohaska and Streich",Rickard Doogood,Casie MacBain,Mobile,30177.8,23924.96,6252.84,0.20719999469808933
+33-4102367,,Ireland,Beauty,Corwin and Sons,Glenine Suttaby,Palm Wetherald,PC,135662.46,116764.68,18897.78,0.13929999500230203
+88-5343320,2019-10-28,Germany,Smartphones,"Swaniawski, Runolfsson and Green",Rickard Doogood,Casie MacBain,PC,102918.09,87480.38,15437.709999999992,0.14999996599237309
+79-6676714,,Portugal,Appliances,Johns and Sons,Celine Tumasian,Brynn Dempster,PC,138764.6,111414.1,27350.5,0.1970999808308459
+29-5632797,,Sweden,Games,Baumbach Group,Maxie Marrow,Anita Woakes,PC,106142.65,88151.47,17991.179999999993,0.16950000777255886
+36-2366573,,Sweden,Beauty,McGlynn-Prosacco,Maxie Marrow,Alyosha Meah,PC,250315.06,218825.43,31489.630000000005,0.12579998183089744
+75-1807214,2020-06-22,France,Appliances,West-Cummings,Othello Bowes,Avrit Chanders,PC,162199.24,130878.57,31320.669999999984,0.1930999799999062
+69-8016438,2019-06-24,France,Clothing,Friesen-Rath,Othello Bowes,Avrit Chanders,Mobile,186209.44,148818.58,37390.860000000015,0.2008000238870812
+21-7344983,2019-04-21,Portugal,Accessories,Labadie and Sons,Celine Tumasian,Hortense Gerring,Mobile,116774.43,98954.65,17819.78,0.1526000169728938
+38-3894304,,Denmark,Electronics,Hegmann Group,Modestia Byfford,Case Desorts,PC,69017.42,55897.21,13120.21,0.1900999776578145
+19-8109416,2019-09-18,France,Electronics,Friesen and Sons,Othello Bowes,Maighdiln Upcraft,PC,27400.69,22832.99,4567.699999999997,0.16670018163776157
+26-0092767,,France,Appliances,Johns and Sons,Othello Bowes,Ora Grennan,PC,75483.45,60077.28,15406.169999999998,0.20409997158317483
+21-2589548,2019-02-17,Sweden,Beauty,Johns and Sons,Maxie Marrow,Alyosha Meah,PC,89376.84,73646.52,15730.319999999992,0.17599995703584947
+68-0080728,,France,Smartphones,Larkin-Collier,Othello Bowes,Avrit Chanders,PC,150135.0,131067.85,19067.149999999994,0.12700003330336027
+35-4551515,,Portugal,Appliances,Kihn Inc,Celine Tumasian,Smitty Culverhouse,PC,34930.08,28017.42,6912.6600000000035,0.1978999189237472
+22-5761330,2020-11-27,Belgium,Smartphones,Labadie and Sons,Lambert Norheny,Collin Mackness,PC,122889.28,103042.66,19846.619999999995,0.16150001041588002
+96-3022721,2020-08-14,Sweden,Books,Franecki-White,Maxie Marrow,Anita Woakes,Unknown,48179.57,41405.52,6774.050000000003,0.1406000510174749
+31-1849120,,Finland,Clothing,Homenick-Marvin,Hube Corey,Wat Bowkley,PC,74480.56,60023.88,14456.68,0.19410004436056874
+34-3302340,2019-03-26,UK,Games,Labadie and Sons,Jessamine Apark,Genevra Charrisson,PC,27987.13,24001.76,3985.3700000000026,0.1424000960441461
+37-9761957,,Bulgaria,Clothing,"Hamill, Kulas and Roob",Charil Alpe,Shermy McGready,PC,159294.28,130605.38,28688.899999999994,0.18010000107976254
+19-9205287,,Portugal,Appliances,Hilll-Vandervort,Celine Tumasian,Smitty Culverhouse,Mobile,37582.13,31967.36,5614.769999999997,0.1493999940929372
+53-0205940,2019-03-24,Luxembourg,Electronics,Johns and Sons,Ilsa Kob,Jocelyn Laurentino,Mobile,104743.22,83281.33,21461.89,0.20490004030809822
+11-5630090,2020-08-25,UK,Accessories,Johns and Sons,Jessamine Apark,Jay Morefield,PC,151012.12,126080.02,24932.09999999999,0.16509999329855107
+66-5572109,,Sweden,Beauty,Romaguera-Dietrich,Maxie Marrow,Alyosha Meah,PC,233858.47,185543.31,48315.16,0.20660000041905688
+36-0185776,2019-03-22,UK,Clothing,Corwin and Sons,Jessamine Apark,Jay Morefield,Tablet,83097.4,68148.18,14949.220000000001,0.17989997280299988
+11-2988171,,Spain,Electronics,Labadie and Sons,Emalia Dinse,Manuel Goudie,PC,68745.86,58014.63,10731.230000000003,0.15610001824109848
+64-0103144,,Ireland,Electronics,Friesen-Rath,Glenine Suttaby,Bunnie Tonbridge,PC,99887.86,84045.65,15842.210000000006,0.15859995398840265
+43-7357498,2019-06-20,France,Books,Johns and Sons,Othello Bowes,Crysta Halls,PC,212521.26,172014.71,40506.55000000002,0.19059998985513268
+98-6247105,2019-10-20,Germany,Games,Labadie and Sons,Rickard Doogood,Casie MacBain,PC,161217.16,135696.48,25520.679999999993,0.1583000221564503
+02-9523107,2019-05-26,Sweden,Games,Kihn Inc,Maxie Marrow,Caro Morfield,PC,78542.59,68010.03,10532.559999999998,0.13409998320656344
+74-6920956,2019-08-26,UK,Outdoors,"Dickinson, Hyatt and Berge",Jessamine Apark,Genevra Charrisson,PC,90559.16,75318.05,15241.11,0.16830003723532772
+91-4735064,2019-12-27,Sweden,Accessories,Wunsch LLC,Maxie Marrow,Tarrah Castelletti,PC,240940.97,195138.09,45802.880000000005,0.19010000665308188
+52-3150154,2020-09-18,France,Games,Armstrong-Little,Othello Bowes,Ora Grennan,PC,133754.65,106147.69,27606.959999999992,0.2064000017943301
+02-3364199,,Sweden,Books,Goldner-Dibbert,Maxie Marrow,Madelon Bront,Mobile,17524.02,14122.61,3401.41,0.19409986977873797
+67-6692861,2019-01-18,Sweden,Games,"Fisher, Morar and Skiles",Maxie Marrow,Alyosha Meah,Mobile,57927.54,48914.01,9013.529999999999,0.1556000824478305
+00-8086430,,Finland,Appliances,Johns and Sons,Hube Corey,Wat Bowkley,PC,100978.49,86568.86,14409.630000000005,0.1426999948206792
+22-4278602,2019-05-17,Ireland,Other,Friesen-Rath,Glenine Suttaby,Bunnie Tonbridge,Mobile,36070.76,29339.96,6730.800000000003,0.18659989420794024
+33-0729966,2020-08-25,Portugal,Clothing,Marquardt-Kuvalis,Celine Tumasian,Corene Shirer,PC,104711.22,90868.4,13842.820000000007,0.1321999686375539
+09-7835975,,Portugal,Electronics,"Zieme, Bailey and Herzog",Celine Tumasian,Brynn Dempster,PC,90994.31,72540.66,18453.649999999994,0.20280004321149306
+56-6094665,2019-11-21,Bulgaria,Books,"Spencer, Rogahn and Muller",Charil Alpe,Shermy McGready,PC,105277.2,90759.47,14517.729999999996,0.13790003913477938
+54-5082146,,Finland,Appliances,"Rowe, Hermiston and Kessler",Hube Corey,Mellicent Mattys,PC,194962.05,154975.33,39986.72,0.2051000181830259
+05-0243828,2019-10-13,Portugal,Games,Larkin-Collier,Celine Tumasian,Brynn Dempster,PC,85515.6,67959.25,17556.350000000006,0.20529996866068886
+30-9025281,2020-10-27,France,Books,Johns and Sons,Othello Bowes,Maighdiln Upcraft,Tablet,84035.82,71329.6,12706.220000000001,0.15120004778914514
+75-0683725,,Sweden,Games,"Swaniawski, Runolfsson and Green",Maxie Marrow,Alyosha Meah,Mobile,93996.68,77171.27,16825.40999999999,0.179000045533523
+06-4986886,,France,Beauty,"Hermiston, Simonis and Wisoky",Othello Bowes,Maighdiln Upcraft,Mobile,31161.76,27300.82,3860.9399999999987,0.12389993376497345
+45-1867999,2020-07-23,Luxembourg,Games,"Dickinson, Hyatt and Berge",Ilsa Kob,Jocelyn Laurentino,PC,148359.68,118480.04,29879.64,0.20140000301968838
+52-5981325,,Sweden,Books,Johns and Sons,Maxie Marrow,Alyosha Meah,PC,71119.23,59220.98,11898.249999999993,0.1673000396657837
+56-2408571,2019-09-18,Portugal,Beauty,Friesen and Sons,Celine Tumasian,Hortense Gerring,PC,141965.11,119193.91,22771.199999999983,0.16039997433172126
+73-2763209,,Finland,Books,Hegmann Group,Hube Corey,Mellicent Mattys,PC,127994.87,105800.56,22194.309999999998,0.17339999642173157
+77-5229094,2019-09-19,Portugal,Games,Goldner-Dibbert,Celine Tumasian,Aurelie Wren,Mobile,106325.72,92705.4,13620.320000000007,0.1280999554952462
+10-1511807,,Sweden,Games,Stehr LLC,Maxie Marrow,Tarrah Castelletti,PC,78679.6,62416.53,16263.070000000007,0.20669995780354763
+15-9091881,2019-04-26,Bulgaria,Books,Rath-Schroeder,Charil Alpe,Bernadine Fullagar,Tablet,37073.91,30274.55,6799.360000000004,0.18340013233025607
+08-4398900,2019-10-17,France,Books,Johns and Sons,Othello Bowes,Ora Grennan,PC,108968.67,88395.39,20573.28,0.1887999550696544
+47-0713476,,Spain,Games,Hessel-Stiedemann,Emalia Dinse,Perri Aldersley,PC,174262.11,143278.31,30983.79999999999,0.17779998187787346
+51-1141675,,Denmark,Books,Johns and Sons,Modestia Byfford,Cobby Andersen,PC,47516.54,38987.32,8529.220000000001,0.17950002251847463
+07-5296371,2020-02-20,Luxembourg,Games,"Murray, Reichel and Nolan",Ilsa Kob,Jocelyn Laurentino,PC,61374.06,49099.25,12274.809999999998,0.19999996741294282
+00-7326184,,Portugal,Games,"Hartmann, Hane and Pfannerstill",Celine Tumasian,Corene Shirer,PC,83904.32,69011.3,14893.020000000004,0.1775000381386799
+55-1904761,2019-09-29,Portugal,Outdoors,Romaguera-Dietrich,Celine Tumasian,Smitty Culverhouse,PC,120152.33,97527.65,22624.680000000008,0.18829996888116948
+15-3241183,2019-02-17,Netherlands,Smartphones,Smith Group,Denice Amberg,Nero Harbisher,PC,60917.85,52736.58,8181.269999999997,0.13430004506068413
+60-1991659,2020-08-14,Sweden,Accessories,"Shanahan, Schaden and Parker",Maxie Marrow,Anita Woakes,PC,170457.8,142809.54,27648.25999999998,0.16220002839412442
+12-2375671,2020-01-23,Ireland,Other,"Leffler, Prohaska and Streich",Glenine Suttaby,Palm Wetherald,PC,88684.7,75337.65,13347.050000000003,0.15050002988114075
+62-9738356,,Spain,Games,"Schmitt, Purdy and Johnson",Emalia Dinse,Bertha Walbrook,Mobile,120012.56,97762.23,22250.33,0.18540001146546664
+77-3656041,,France,Beauty,Johns and Sons,Othello Bowes,Ora Grennan,PC,118027.37,96050.67,21976.699999999997,0.18620003139949656
+59-0893568,2019-09-17,UK,Beauty,"Dickinson, Hyatt and Berge",Jessamine Apark,Winny Agnolo,PC,141552.4,122994.88,18557.51999999999,0.13110000254322773
+22-7587128,2019-09-20,Sweden,Electronics,"Lubowitz, McLaughlin and Erdman",Maxie Marrow,Tarrah Castelletti,PC,67161.99,55764.6,11397.390000000007,0.16970000442214422
+48-2124998,,Germany,Accessories,Considine-Fisher,Rickard Doogood,Casie MacBain,Mobile,250483.63,217269.5,33214.130000000005,0.1326000026428873
+89-0187996,2020-08-31,France,Appliances,"Fisher, Morar and Skiles",Othello Bowes,Ora Grennan,Tablet,26103.94,22339.75,3764.1899999999987,0.14420007094714432
+32-9344186,,Sweden,Clothing,Hessel-Stiedemann,Maxie Marrow,Tarrah Castelletti,PC,98322.98,84872.4,13450.580000000002,0.1367999627350595
+34-8182639,,Portugal,Beauty,"Murray, Reichel and Nolan",Celine Tumasian,Brynn Dempster,PC,104391.93,86770.57,17621.359999999986,0.16880002122769439
+38-6130023,,France,Clothing,Kihn Inc,Othello Bowes,Ora Grennan,PC,91540.03,74916.36,16623.67,0.18160000603014875
+30-7149594,2020-11-29,Portugal,Beauty,"Swaniawski, Runolfsson and Green",Celine Tumasian,Hortense Gerring,Tablet,78057.96,67161.07,10896.89,0.13959998442183216
+75-7443241,2020-03-13,Netherlands,Clothing,Dibbert Inc,Denice Amberg,Nero Harbisher,PC,77896.83,62714.74,15182.090000000004,0.194899972181153
+16-8778373,2020-09-16,Portugal,Games,Johns and Sons,Celine Tumasian,Corene Shirer,PC,141796.75,112317.21,29479.539999999994,0.20789996949859565
+20-7532198,,Portugal,Outdoors,Connelly-Mohr,Celine Tumasian,Brynn Dempster,PC,201537.12,166127.05,35410.07000000001,0.1756999901556597
+30-7981953,,UK,Books,Dibbert Inc,Jessamine Apark,Genevra Charrisson,PC,125099.05,108473.39,16625.660000000003,0.13289997006372153
+62-1694462,,Luxembourg,Appliances,Hessel-Stiedemann,Ilsa Kob,Jocelyn Laurentino,PC,26490.47,21168.53,5321.940000000002,0.20090017277911648
+98-3033030,2020-09-27,Luxembourg,Accessories,"Zieme, Bailey and Herzog",Ilsa Kob,Jocelyn Laurentino,PC,160185.99,130487.51,29698.479999999996,0.1853999841059758
+09-8360520,2020-11-16,Portugal,Beauty,Romaguera-Haley,Celine Tumasian,Brynn Dempster,Mobile,87459.79,69967.83,17491.959999999992,0.20000002286765145
+03-2027170,2020-10-29,France,Appliances,Johns and Sons,Othello Bowes,Ora Grennan,PC,29443.71,23958.35,5485.360000000001,0.18629989223504784
+80-3039005,2019-12-30,Portugal,Appliances,"Rowe, Hermiston and Kessler",Celine Tumasian,Aurelie Wren,PC,151151.77,124035.14,27116.62999999999,0.17940001628826438
+46-0270404,2019-10-25,France,Beauty,West-Cummings,Othello Bowes,Amelina Piscopiello,PC,155044.02,134268.12,20775.899999999994,0.1340000085137111
+92-7234550,2019-03-28,Sweden,Appliances,Johns and Sons,Maxie Marrow,Alyosha Meah,PC,57227.99,46331.78,10896.21,0.19040001230167264
+39-5542863,,Sweden,Books,Hessel-Stiedemann,Maxie Marrow,Alyosha Meah,PC,249842.77,218737.35,31105.419999999984,0.12449998052775345
+90-2530115,,Italy,Other,Schoen-Keeling,Piggy Roscrigg,Joshua Prevost,Mobile,109390.57,87414.0,21976.570000000007,0.20090004101816095
+79-6623911,2020-04-14,Sweden,Clothing,"Murray, Reichel and Nolan",Maxie Marrow,Anita Woakes,PC,120763.23,96719.27,24043.959999999992,0.1991000075105642
+97-5797169,2020-01-25,Finland,Outdoors,Gislason-Stanton,Hube Corey,Mellicent Mattys,PC,177464.83,142717.22,34747.609999999986,0.19579997907190957
+49-2256360,2019-06-14,Sweden,Smartphones,"Schowalter, Lesch and Beahan",Maxie Marrow,Alyosha Meah,Mobile,251587.2,201848.41,49738.79000000001,0.19770000222586842
+40-7356336,2019-04-21,Netherlands,Clothing,Hessel-Stiedemann,Denice Amberg,Nero Harbisher,PC,62567.58,49916.42,12651.160000000003,0.2021999252648097
+70-0364033,2020-12-13,France,Clothing,Hessel-Stiedemann,Othello Bowes,Avrit Chanders,PC,234340.31,204438.49,29901.820000000007,0.12759998482548737
+54-7503816,,Sweden,Beauty,Johns and Sons,Maxie Marrow,Madelon Bront,PC,148243.05,120566.07,27676.97999999998,0.18670001730266603
+09-3747816,,Sweden,Electronics,McGlynn-Bergstrom,Maxie Marrow,Tarrah Castelletti,PC,90602.07,71630.0,18972.070000000007,0.20939996183310167
+82-8836162,2020-10-27,Sweden,Appliances,Altenwerth-Konopelski,Maxie Marrow,Madelon Bront,Tablet,36181.81,29698.03,6483.779999999999,0.17919999027135455
+75-9517276,,Sweden,Books,Johns and Sons,Maxie Marrow,Anita Woakes,Mobile,81262.34,65326.8,15935.539999999994,0.19609994002141698
+95-4271285,,Portugal,Accessories,"Zieme, Bailey and Herzog",Celine Tumasian,Smitty Culverhouse,PC,121736.23,106214.86,15521.369999999995,0.12750000554477492
+73-8632957,2020-04-27,Sweden,Books,McGlynn-Prosacco,Maxie Marrow,Madelon Bront,PC,131839.16,115372.45,16466.710000000006,0.12489999177786028
+82-0533747,2020-02-21,Luxembourg,Smartphones,Kirlin and Sons,Ilsa Kob,Jocelyn Laurentino,PC,47182.43,40576.89,6605.540000000001,0.13999999576113398
+72-2647440,2020-10-29,Portugal,Books,Kirlin and Sons,Celine Tumasian,Smitty Culverhouse,PC,36321.68,31581.7,4739.98,0.13050002092414226
+01-8080546,2020-05-30,Sweden,Beauty,"Zieme, Bailey and Herzog",Maxie Marrow,Caro Morfield,Tablet,82116.31,70652.87,11463.440000000002,0.1396000380435994
+51-5334556,2020-05-17,Portugal,Other,"Rowe, Hermiston and Kessler",Celine Tumasian,Aurelie Wren,PC,77087.84,65894.69,11193.149999999994,0.14519994333736677
+93-2085046,2019-09-16,Sweden,Appliances,"Swaniawski, Runolfsson and Green",Maxie Marrow,Tarrah Castelletti,PC,94115.99,75669.26,18446.73000000001,0.19599995707424434
+75-1785229,,UK,Beauty,Wiza and Sons,Jessamine Apark,Jay Morefield,PC,60301.96,48820.47,11481.489999999998,0.1903999471990628
+04-1808253,,Portugal,Electronics,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,PC,66146.57,56145.21,10001.360000000008,0.15119997907676855
+63-4386955,2020-04-30,Portugal,Games,McGlynn-Bergstrom,Celine Tumasian,Brynn Dempster,PC,134120.38,105981.92,28138.460000000006,0.20980003188180651
+00-1210718,,UK,Books,Gislason-Stanton,Jessamine Apark,Winny Agnolo,PC,137306.45,108732.98,28573.470000000016,0.2080999836497121
+05-5082715,2019-04-23,Sweden,Electronics,"Keeling, Monahan and Pollich",Maxie Marrow,Anita Woakes,PC,132632.97,112035.07,20597.899999999994,0.1552999981829555
+73-9492768,2019-11-18,Netherlands,Clothing,"Hamill, Kulas and Roob",Denice Amberg,Nero Harbisher,PC,73981.77,61959.73,12022.04,0.1625000321025031
+24-8477374,,Finland,Outdoors,McGlynn-Prosacco,Hube Corey,Wat Bowkley,PC,93007.22,81837.05,11170.169999999998,0.12010003094383423
+81-7970957,2019-10-15,Bulgaria,Electronics,Homenick-Marvin,Charil Alpe,Bernadine Fullagar,PC,147672.87,129110.39,18562.479999999996,0.12570000163198558
+71-4409662,,Sweden,Electronics,Friesen-Rath,Maxie Marrow,Caro Morfield,PC,53593.86,45629.81,7964.050000000003,0.14860004485588466
+50-2481520,2020-06-29,Sweden,Other,"Rowe, Hermiston and Kessler",Maxie Marrow,Anita Woakes,Tablet,110092.84,92797.25,17295.589999999997,0.15710004392656232
+33-8484080,,Sweden,Appliances,Larkin-Collier,Maxie Marrow,Tarrah Castelletti,PC,174380.2,151518.96,22861.24000000002,0.13109997580000493
+57-6995715,,France,Electronics,"Rowe, Hermiston and Kessler",Othello Bowes,Crysta Halls,PC,55804.05,46401.07,9402.980000000003,0.16849995654437272
+16-3423161,2019-04-24,Portugal,Games,"Fisher, Morar and Skiles",Celine Tumasian,Brynn Dempster,PC,78938.82,65471.86,13466.960000000006,0.1705999658976408
+00-4698524,,Sweden,Appliances,Johns and Sons,Maxie Marrow,Madelon Bront,Mobile,124593.04,109106.13,15486.909999999989,0.12429996089669205
+57-1931933,,Sweden,Smartphones,"Murray, Reichel and Nolan",Maxie Marrow,Madelon Bront,PC,126682.79,106514.89,20167.899999999994,0.15919999867385298
+85-7784608,,France,Appliances,Johns and Sons,Othello Bowes,Amelina Piscopiello,PC,86077.83,72288.16,13789.669999999998,0.16020001898282052
+48-7252604,2020-11-15,Spain,Electronics,McClure Inc,Emalia Dinse,Bertha Walbrook,PC,131409.9,115325.33,16084.569999999992,0.1223999866067929
+67-6072579,2020-04-22,France,Clothing,McGlynn-Bergstrom,Othello Bowes,Amelina Piscopiello,PC,123562.02,102927.16,20634.86,0.16700002152765064
+48-7080069,,Netherlands,Beauty,McClure Inc,Denice Amberg,Nero Harbisher,Tablet,214983.15,180413.86,34569.29000000001,0.16079999758120583
+66-7717800,,Finland,Games,Tillman and Sons,Hube Corey,Mellicent Mattys,PC,135629.36,118526.5,17102.859999999986,0.12609998307151185
+04-6732680,,France,Beauty,"Leffler, Prohaska and Streich",Othello Bowes,Crysta Halls,Tablet,38648.72,32368.3,6280.420000000002,0.16250007762223437
+76-2572347,2019-10-29,Portugal,Electronics,Walter LLC,Celine Tumasian,Hortense Gerring,Tablet,136324.9,110436.8,25888.09999999999,0.1899000109297714
+48-8166416,2019-02-19,Sweden,Outdoors,Labadie and Sons,Maxie Marrow,Tarrah Castelletti,Mobile,113586.11,91641.27,21944.839999999997,0.19320003123621363
+62-7218897,2019-10-30,Sweden,Clothing,Kihn Inc,Maxie Marrow,Caro Morfield,PC,67611.54,56191.95,11419.589999999997,0.16890001322259482
+04-2863062,2020-05-19,Portugal,Books,Johns and Sons,Celine Tumasian,Corene Shirer,PC,143322.47,114213.68,29108.790000000008,0.2030999744841127
+74-0214938,2020-11-20,Sweden,Games,Walter LLC,Maxie Marrow,Madelon Bront,PC,171748.56,136574.45,35174.109999999986,0.20480002859994859
+50-1986322,2019-03-22,France,Electronics,Wiza and Sons,Othello Bowes,Maighdiln Upcraft,PC,50516.2,43918.78,6597.419999999998,0.13060008472529602
+93-9111830,2019-05-31,Portugal,Clothing,"Schowalter, Lesch and Beahan",Celine Tumasian,Hortense Gerring,PC,76856.57,65535.6,11320.970000000008,0.1472999640759405
+36-1142710,2019-10-18,Finland,Beauty,Romaguera-Dietrich,Hube Corey,Wat Bowkley,PC,125280.28,99372.32,25907.959999999992,0.2067999848020773
+44-7664180,,France,Books,Johns and Sons,Othello Bowes,Ora Grennan,Mobile,184431.48,153059.69,31371.790000000008,0.17009997425602183
+78-3726363,,France,Smartphones,Rath-Schroeder,Othello Bowes,Avrit Chanders,PC,102255.86,83379.43,18876.430000000008,0.18459998282739012
+54-5705354,2019-04-13,France,Games,Hilll-Vandervort,Othello Bowes,Maighdiln Upcraft,PC,101318.72,86657.9,14660.820000000007,0.14470001200173085
+04-2788693,2020-11-22,Portugal,Beauty,"Swaniawski, Runolfsson and Green",Celine Tumasian,Corene Shirer,PC,83226.45,71699.59,11526.86,0.13849996004875856
+15-2503493,,UK,Appliances,McGlynn-Prosacco,Jessamine Apark,Jay Morefield,PC,129485.51,112794.83,16690.679999999993,0.12889998270848987
+56-2537757,2019-07-18,France,Other,Larkin-Collier,Othello Bowes,Amelina Piscopiello,PC,177802.7,155079.51,22723.190000000002,0.12780002778360508
+94-0775004,2020-01-24,Spain,Electronics,Corwin and Sons,Emalia Dinse,Manuel Goudie,PC,44038.31,36252.34,7785.970000000001,0.1767999271543345
+44-5240815,,Portugal,Books,"Bashirian, Okuneva and Bechtelar",Celine Tumasian,Aurelie Wren,PC,113781.45,91104.81,22676.64,0.19929997376549516
+98-5257166,,Luxembourg,Beauty,Altenwerth-Konopelski,Ilsa Kob,Jocelyn Laurentino,Tablet,312928.72,270401.71,42527.00999999995,0.13589999025976252
+74-6211038,2020-03-20,Ireland,Outdoors,Baumbach Group,Glenine Suttaby,Bunnie Tonbridge,Mobile,65397.28,53920.06,11477.220000000001,0.1754999596313486
+18-2580592,2020-06-13,France,Appliances,Goldner-Dibbert,Othello Bowes,Amelina Piscopiello,PC,250488.42,214142.55,36345.870000000024,0.14510000102998782
+82-4770311,,UK,Outdoors,Kihn Inc,Jessamine Apark,Winny Agnolo,PC,111523.01,98017.57,13505.439999999988,0.1211000312850235
+56-9241023,,France,Clothing,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,Tablet,271411.92,231514.37,39897.54999999999,0.14699999174686207
+02-3333733,2019-03-15,Bulgaria,Outdoors,Wisoky Inc,Charil Alpe,Shermy McGready,Mobile,83141.47,72000.51,11140.960000000006,0.13400003632363014
+96-1698894,2020-05-14,Ireland,Games,Gleichner-Green,Glenine Suttaby,Bunnie Tonbridge,PC,126523.36,106368.19,20155.17,0.15929999013620882
+70-9736399,2020-09-22,Portugal,Books,"Murray, Reichel and Nolan",Celine Tumasian,Hortense Gerring,Mobile,95410.97,80593.65,14817.320000000007,0.15529996183876976
+37-6597365,2019-08-29,Luxembourg,Games,West-Cummings,Ilsa Kob,Jocelyn Laurentino,PC,136079.62,119178.53,16901.089999999997,0.1242000087889722
+14-5110197,2019-02-19,Sweden,Books,"Farrell, Swaniawski and Crist",Maxie Marrow,Alyosha Meah,PC,25907.52,22454.05,3453.470000000001,0.13329990674522305
+68-6141868,2019-12-26,France,Books,Franecki-White,Othello Bowes,Amelina Piscopiello,PC,180515.09,148852.74,31662.350000000006,0.17540001780460573
+28-7069317,2019-05-27,Finland,Games,Hilll-Vandervort,Hube Corey,Wat Bowkley,PC,28538.19,24970.92,3567.2700000000004,0.1249998685971325
+19-1017922,2019-01-29,Sweden,Clothing,Kirlin and Sons,Maxie Marrow,Alyosha Meah,PC,162142.74,136037.76,26104.97999999998,0.16099999296915782
+07-6200800,2020-05-27,Ireland,Clothing,Kihn Inc,Glenine Suttaby,Bunnie Tonbridge,Mobile,37520.09,32781.3,4738.789999999994,0.1263000701757377
+70-0112393,2019-07-18,Germany,Beauty,Johns and Sons,Rickard Doogood,Casie MacBain,PC,230765.62,195435.4,35330.22,0.1531000155049093
+81-4176165,,France,Beauty,Wisoky Inc,Othello Bowes,Ora Grennan,PC,26713.46,22043.95,4669.509999999998,0.17479989488445147
+87-7908481,,Portugal,Smartphones,Kirlin and Sons,Celine Tumasian,Aurelie Wren,Mobile,56763.04,47663.92,9099.120000000003,0.1603000825889523
+25-6638623,,France,Games,"Schmitt, Purdy and Johnson",Othello Bowes,Ora Grennan,PC,18326.41,15067.97,3258.4400000000005,0.17780023474319304
+01-4729172,,Portugal,Games,Johns and Sons,Celine Tumasian,Smitty Culverhouse,PC,69871.92,58014.66,11857.259999999995,0.16969993095938962
+12-4509008,2019-03-21,Portugal,Clothing,"Hartmann, Hane and Pfannerstill",Celine Tumasian,Smitty Culverhouse,PC,106516.4,86928.03,19588.369999999995,0.18390003792843165
+83-9569509,2020-04-15,Sweden,Games,"Rowe, Hermiston and Kessler",Maxie Marrow,Alyosha Meah,PC,53849.12,47354.92,6494.200000000004,0.12059992809538957
+92-4440351,2019-11-15,Finland,Appliances,Corwin and Sons,Hube Corey,Wat Bowkley,PC,99989.89,81191.79,18798.100000000006,0.1880000068006876
+55-4161787,,France,Beauty,"Swaniawski, Runolfsson and Green",Othello Bowes,Crysta Halls,PC,132760.25,105039.91,27720.339999999997,0.20879999849352496
+21-4464304,2020-05-22,Luxembourg,Outdoors,Stamm-Zulauf,Ilsa Kob,Jocelyn Laurentino,PC,120831.28,95746.71,25084.569999999992,0.20759996914706186
+38-6891011,2019-05-22,Portugal,Clothing,"Farrell, Swaniawski and Crist",Celine Tumasian,Hortense Gerring,PC,80474.78,66568.74,13906.039999999994,0.1727999753463134
+51-3543971,,Finland,Beauty,Labadie and Sons,Hube Corey,Mellicent Mattys,Mobile,222379.49,192869.73,29509.75999999998,0.13270000754116298
+46-2962443,,Sweden,Books,Johns and Sons,Maxie Marrow,Madelon Bront,PC,173944.47,139729.59,34214.880000000005,0.19670001581539215
+78-7666796,2019-10-29,Spain,Electronics,Kirlin and Sons,Emalia Dinse,Perri Aldersley,PC,107359.01,90868.67,16490.339999999997,0.15359996333796294
+60-0406937,2020-07-30,France,Beauty,"Farrell, Swaniawski and Crist",Othello Bowes,Ora Grennan,PC,106730.16,89503.91,17226.25,0.1614000203878641
+89-7467187,,France,Books,Johns and Sons,Othello Bowes,Ora Grennan,PC,40544.43,32666.65,7877.779999999999,0.19429993219783825
+56-7910696,,France,Books,McClure Inc,Othello Bowes,Amelina Piscopiello,PC,144204.86,115262.94,28941.919999999984,0.20070003188519434
+49-7167664,2019-12-23,France,Appliances,Corwin and Sons,Othello Bowes,Amelina Piscopiello,Tablet,238659.41,204507.25,34152.16,0.14309999341739763
+30-9690927,2020-03-15,France,Electronics,West-Cummings,Othello Bowes,Crysta Halls,PC,16388.9,13430.7,2958.2000000000007,0.18050021661002266
+70-4650708,2020-04-13,Portugal,Books,Gislason-Stanton,Celine Tumasian,Hortense Gerring,PC,55166.78,47443.43,7723.3499999999985,0.14000001450148075
+71-1921602,2019-08-26,Sweden,Beauty,"Leffler, Prohaska and Streich",Maxie Marrow,Anita Woakes,PC,46849.71,39630.17,7219.540000000001,0.1540999933617519
+84-5310661,,Portugal,Smartphones,Gislason-Stanton,Celine Tumasian,Smitty Culverhouse,Tablet,294472.77,255572.92,38899.850000000006,0.1320999900941605
+47-9858688,,France,Books,Considine-Fisher,Othello Bowes,Avrit Chanders,PC,80294.56,65295.54,14999.019999999997,0.1867999525746202
+26-1781486,2019-12-21,France,Beauty,"Rowe, Hermiston and Kessler",Othello Bowes,Ora Grennan,Mobile,56823.17,46583.63,10239.54,0.18020008387423653
+70-5394452,2019-08-27,France,Appliances,Johns and Sons,Othello Bowes,Ora Grennan,PC,72314.73,57309.42,15005.309999999998,0.20750004874525563
+15-7053450,,Germany,Appliances,Johns and Sons,Rickard Doogood,Casie MacBain,PC,241782.39,196544.91,45237.48000000001,0.18709997862127184
+22-6046651,,Sweden,Outdoors,Hane Inc,Maxie Marrow,Madelon Bront,PC,152522.94,122399.66,30123.28,0.19749999573834598
+29-1727395,,Portugal,Clothing,Johns and Sons,Celine Tumasian,Brynn Dempster,PC,98521.87,84571.17,13950.699999999997,0.1416000325612983
+63-0019978,,Luxembourg,Books,"Swaniawski, Runolfsson and Green",Ilsa Kob,Jocelyn Laurentino,PC,108920.56,94270.74,14649.819999999992,0.13450004296709447
+53-2132479,2020-02-24,Luxembourg,Beauty,McClure Inc,Ilsa Kob,Jocelyn Laurentino,PC,74732.79,64098.31,10634.479999999996,0.14230005329655157
+84-0679518,,Portugal,Outdoors,"Spencer, Rogahn and Muller",Celine Tumasian,Smitty Culverhouse,PC,152676.77,122385.7,30291.069999999992,0.19839999234985123
+71-6499815,2019-04-18,Sweden,Smartphones,"Spencer, Rogahn and Muller",Maxie Marrow,Caro Morfield,PC,63196.98,54671.71,8525.270000000004,0.13489995882714653
+98-0946281,,Portugal,Smartphones,Larkin-Collier,Celine Tumasian,Hortense Gerring,PC,172444.09,149681.47,22762.619999999995,0.1320000006958777
+90-6933957,,UK,Clothing,"Keeling, Monahan and Pollich",Jessamine Apark,Genevra Charrisson,PC,78013.63,64509.47,13504.160000000003,0.17310000829342262
+29-8090560,,France,Books,Altenwerth-Konopelski,Othello Bowes,Ora Grennan,PC,84712.13,73004.91,11707.220000000001,0.13820004289822485
+82-0537890,,Portugal,Electronics,Larkin-Collier,Celine Tumasian,Corene Shirer,Mobile,28859.73,23656.32,5203.41,0.18030002359689434
+40-9830607,,Luxembourg,Electronics,Tillman and Sons,Ilsa Kob,Jocelyn Laurentino,PC,71360.36,59750.03,11610.330000000002,0.1626999919843454
+21-6670877,,France,Accessories,Hilll-Vandervort,Othello Bowes,Crysta Halls,PC,161212.39,138046.17,23166.22,0.14369999725207225
+68-5024232,,UK,Games,Hessel-Stiedemann,Jessamine Apark,Winny Agnolo,PC,124668.36,103998.35,20670.009999999995,0.1657999672090015
+13-0833129,,Finland,Appliances,Friesen and Sons,Hube Corey,Mellicent Mattys,Mobile,186397.6,161233.92,25163.679999999993,0.13500002145950374
+53-0009701,2020-11-30,Sweden,Electronics,West-Cummings,Maxie Marrow,Anita Woakes,Mobile,153823.74,129258.09,24565.649999999994,0.15969999169178956
+96-7625873,,Germany,Appliances,"Keeling, Monahan and Pollich",Rickard Doogood,Casie MacBain,Mobile,169544.95,137568.77,31976.180000000022,0.18860001433248244
+84-9167618,,Sweden,Appliances,"Bashirian, Okuneva and Bechtelar",Maxie Marrow,Tarrah Castelletti,PC,58010.14,46089.06,11921.080000000002,0.20549993501136185
+67-2823354,2019-09-20,Spain,Electronics,"Schowalter, Lesch and Beahan",Emalia Dinse,Bertha Walbrook,Mobile,58933.16,51855.29,7077.870000000003,0.12009995730756678
+07-7047482,,UK,Appliances,Johns and Sons,Jessamine Apark,Jay Morefield,PC,165631.75,139114.11,26517.640000000014,0.16009998083097
+01-7655863,2019-03-21,France,Accessories,"Hermiston, Simonis and Wisoky",Othello Bowes,Ora Grennan,PC,76543.36,65819.64,10723.720000000001,0.14009993812657298
+47-5319780,,France,Games,Kihn Inc,Othello Bowes,Avrit Chanders,PC,82697.53,69548.62,13148.910000000003,0.1590000330118687
+78-5541691,,Portugal,Clothing,Larkin-Collier,Celine Tumasian,Corene Shirer,PC,135211.42,108534.21,26677.210000000006,0.1972999765848181
+93-9941140,2019-07-24,Italy,Books,Dibbert Inc,Piggy Roscrigg,Joshua Prevost,PC,142353.07,116046.22,26306.850000000006,0.18480001871403268
+91-0416047,2019-12-24,UK,Clothing,Johns and Sons,Jessamine Apark,Winny Agnolo,PC,156177.77,130096.08,26081.689999999988,0.16700001543113333
+46-6126203,2019-05-15,Portugal,Appliances,Romaguera-Haley,Celine Tumasian,Aurelie Wren,PC,99832.12,84128.53,15703.589999999997,0.15729997519836297
+44-9908550,2020-06-28,UK,Electronics,Friesen-Rath,Jessamine Apark,Genevra Charrisson,PC,176662.26,146859.34,29802.920000000013,0.16869998153538854
+27-9800293,,Portugal,Smartphones,Stamm Inc,Celine Tumasian,Corene Shirer,PC,156839.31,134709.28,22130.03,0.14110002141682465
+68-0176456,2020-05-23,France,Games,"Lubowitz, McLaughlin and Erdman",Othello Bowes,Avrit Chanders,PC,74685.85,59166.13,15519.720000000008,0.20780000495408443
+66-7112079,2020-05-21,Italy,Games,Romaguera-Dietrich,Piggy Roscrigg,Joshua Prevost,PC,127830.38,103874.97,23955.410000000003,0.18739997487295276
+95-1862126,,Finland,Games,Friesen-Rath,Hube Corey,Mellicent Mattys,PC,132246.48,106841.93,25404.550000000017,0.19210000901347254
+03-3076058,,Netherlands,Outdoors,"Farrell, Swaniawski and Crist",Denice Amberg,Nero Harbisher,Mobile,102073.04,81770.71,20302.329999999987,0.19890002296394804
+22-8551804,2020-02-16,UK,Other,Hessel-Stiedemann,Jessamine Apark,Winny Agnolo,Mobile,18897.97,16469.58,2428.3899999999994,0.12850004524295464
+85-3431441,2019-07-13,Sweden,Beauty,"Fisher, Morar and Skiles",Maxie Marrow,Anita Woakes,PC,144072.9,123729.81,20343.089999999997,0.1411999758455615
+47-6702070,,Sweden,Books,"Murray, Reichel and Nolan",Maxie Marrow,Madelon Bront,PC,28755.32,23938.8,4816.52,0.16750013562707702
+39-6568658,,Ireland,Appliances,Friesen-Rath,Glenine Suttaby,Palm Wetherald,PC,161630.62,133991.78,27638.839999999997,0.1710000246240471
+24-9178520,,France,Accessories,"Heaney, Gulgowski and Kshlerin",Othello Bowes,Maighdiln Upcraft,Mobile,234961.46,199388.3,35573.16,0.15139997853264958
+61-4366487,2020-05-28,Italy,Books,"Spencer, Rogahn and Muller",Piggy Roscrigg,Joshua Prevost,Mobile,38536.92,32001.06,6535.859999999997,0.16959995765100058
+61-0888460,2020-06-19,Ireland,Games,Johns and Sons,Glenine Suttaby,Palm Wetherald,Mobile,46857.77,39116.87,7740.899999999994,0.16519992308639517
+54-3353166,,Sweden,Clothing,"Schmitt, Purdy and Johnson",Maxie Marrow,Alyosha Meah,PC,177215.51,155807.88,21407.630000000005,0.12079997964060822
+93-0380487,2020-11-14,UK,Appliances,Johns and Sons,Jessamine Apark,Jay Morefield,PC,149938.36,123579.2,26359.15999999999,0.17579997540322564
+17-0893784,,Sweden,Electronics,Hegmann Group,Maxie Marrow,Alyosha Meah,Tablet,157683.41,130624.94,27058.47,0.17159997998521215
+34-0286364,2020-06-24,Bulgaria,Appliances,Stehr LLC,Charil Alpe,Shermy McGready,PC,91108.56,74089.48,17019.08,0.18680001088810977
+46-1318487,2020-06-26,France,Outdoors,Armstrong-Little,Othello Bowes,Crysta Halls,PC,165259.58,130703.8,34555.779999999984,0.20910001102507939
+43-8355995,2019-06-28,Portugal,Games,Romaguera-Dietrich,Celine Tumasian,Corene Shirer,PC,223233.32,179100.09,44133.23000000001,0.1977000118082731
+20-3441688,2020-01-18,Portugal,Electronics,McGlynn-Bergstrom,Celine Tumasian,Smitty Culverhouse,Mobile,84767.77,68950.1,15817.669999999998,0.1866000485797845
+63-1220717,,Spain,Other,"Swaniawski, Runolfsson and Green",Emalia Dinse,Manuel Goudie,PC,144530.35,115407.48,29122.87000000001,0.20150003096235503
+25-2616039,,UK,Books,O'Connell-Mitchell,Jessamine Apark,Winny Agnolo,Mobile,178560.1,150383.32,28176.78,0.157799978830657
+20-0499139,2020-12-27,UK,Appliances,Johns and Sons,Jessamine Apark,Winny Agnolo,Mobile,96669.92,76475.57,20194.34999999999,0.2089000383987076
+92-6298656,2019-02-26,France,Smartphones,Armstrong-Little,Othello Bowes,Maighdiln Upcraft,PC,35289.75,29424.59,5865.16,0.16620010059578205
+57-9765345,2020-06-26,Portugal,Games,Johns and Sons,Celine Tumasian,Smitty Culverhouse,PC,159216.47,137419.74,21796.73000000001,0.13689997021036837
+16-9758497,2020-03-22,Portugal,Outdoors,Kihn Inc,Celine Tumasian,Aurelie Wren,PC,32779.67,26800.66,5979.009999999998,0.18239994484386202
+10-4704941,,Portugal,Appliances,Johns and Sons,Celine Tumasian,Brynn Dempster,PC,64192.86,52837.14,11355.720000000001,0.17690004776232124
+70-8181545,2019-05-29,UK,Beauty,Dibbert Inc,Jessamine Apark,Genevra Charrisson,PC,47771.76,39234.95,8536.810000000005,0.17869992648376373
+15-5051694,2019-09-26,UK,Electronics,Dibbert Inc,Jessamine Apark,Genevra Charrisson,PC,126979.62,105113.73,21865.89,0.17219999555834237
+20-4568650,,Belgium,Accessories,"Heaney, Gulgowski and Kshlerin",Lambert Norheny,Collin Mackness,PC,46311.34,40564.1,5747.239999999998,0.1241000584306133
+40-9497268,,Sweden,Electronics,Wisoky Inc,Maxie Marrow,Madelon Bront,Mobile,92877.57,75936.7,16940.87000000001,0.18240001326477434
+77-4566105,,Sweden,Books,Tillman and Sons,Maxie Marrow,Tarrah Castelletti,PC,86854.64,72219.63,14635.009999999995,0.16850003638262728
+17-3178991,2020-09-15,Ireland,Beauty,Kirlin and Sons,Glenine Suttaby,Bunnie Tonbridge,PC,68802.13,54635.77,14166.360000000008,0.20590002082784364
+25-9913528,2020-05-21,Sweden,Clothing,Dibbert Inc,Maxie Marrow,Caro Morfield,Mobile,103726.57,90231.74,13494.830000000002,0.13010003126489192
+96-0020600,2020-05-19,France,Electronics,Altenwerth-Konopelski,Othello Bowes,Amelina Piscopiello,Mobile,165262.34,142621.4,22640.940000000002,0.13699999649042852
+66-8222460,,Finland,Clothing,Johns and Sons,Hube Corey,Wat Bowkley,PC,72385.53,60181.33,12204.199999999997,0.16859999505426013
+84-5642889,2020-08-27,Sweden,Beauty,"Christiansen, Donnelly and Bechtelar",Maxie Marrow,Caro Morfield,Mobile,31627.37,25662.45,5964.919999999998,0.1885999373327595
+19-6334792,2019-06-20,France,Beauty,Hessel-Stiedemann,Othello Bowes,Maighdiln Upcraft,Mobile,232217.05,191439.74,40777.31,0.17559998286086229
+53-3037652,2020-05-26,France,Games,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,PC,99319.33,79127.71,20191.619999999995,0.2033000021244605
+47-9191500,,France,Beauty,"Spencer, Rogahn and Muller",Othello Bowes,Ora Grennan,PC,125499.82,100977.16,24522.660000000003,0.1953999615298253
+44-9179070,2020-01-19,France,Smartphones,Wisoky Inc,Othello Bowes,Crysta Halls,PC,66884.7,58544.18,8340.519999999997,0.1246999687521959
+21-3278349,2019-02-23,Sweden,Electronics,Larkin-Collier,Maxie Marrow,Caro Morfield,PC,20226.11,17408.61,2817.5,0.13930014224188436
+56-1063618,,Sweden,Beauty,Hegmann Group,Maxie Marrow,Tarrah Castelletti,PC,50618.21,41835.95,8782.260000000002,0.17350001116199096
+68-3731565,,Sweden,Beauty,Corwin and Sons,Maxie Marrow,Anita Woakes,Mobile,39313.39,34273.41,5039.979999999996,0.1282000865354017
+38-2969743,,UK,Clothing,"Hartmann, Hane and Pfannerstill",Jessamine Apark,Winny Agnolo,Tablet,146055.05,117822.61,28232.439999999988,0.19329999202355544
+84-2496865,2020-10-25,Sweden,Clothing,Romaguera-Haley,Maxie Marrow,Anita Woakes,PC,53093.47,42533.18,10560.29,0.19889997771854054
+03-3461826,,France,Appliances,Johns and Sons,Othello Bowes,Maighdiln Upcraft,PC,176190.16,142273.55,33916.610000000015,0.1925000238378807
+62-3312495,2019-01-20,France,Appliances,Gislason-Stanton,Othello Bowes,Maighdiln Upcraft,PC,64827.8,56043.63,8784.170000000006,0.1355000478189913
+44-2650716,,Spain,Beauty,Wiza and Sons,Emalia Dinse,Perri Aldersley,PC,123953.65,101939.48,22014.17,0.17760001419885577
+73-4726386,,Portugal,Clothing,"Fisher, Morar and Skiles",Celine Tumasian,Aurelie Wren,PC,19622.59,17148.18,2474.41,0.12610007139730278
+84-2858993,2019-04-30,Sweden,Smartphones,"Swaniawski, Runolfsson and Green",Maxie Marrow,Anita Woakes,PC,146540.75,120822.85,25717.899999999994,0.1754999889109343
+24-2403756,2020-12-16,Austria,Games,"Murray, Reichel and Nolan",Orsa Geekin,Bank Coumbe,PC,139075.59,113708.2,25367.39,0.18240001714175721
+67-2684209,,France,Appliances,"Murray, Reichel and Nolan",Othello Bowes,Ora Grennan,PC,131864.04,110277.9,21586.140000000014,0.16369997461021224
+26-1201622,,Finland,Beauty,Johns and Sons,Hube Corey,Mellicent Mattys,PC,130251.55,105386.53,24865.020000000004,0.19089999312868064
+12-2202467,2020-11-18,Portugal,Outdoors,"Spencer, Rogahn and Muller",Celine Tumasian,Brynn Dempster,PC,38930.16,32837.59,6092.570000000007,0.15649999897251915
+99-3971751,,France,Clothing,Smith Group,Othello Bowes,Crysta Halls,PC,219911.81,179426.05,40485.76000000001,0.1840999808059422
+10-5202864,2020-02-21,UK,Outdoors,Labadie and Sons,Jessamine Apark,Genevra Charrisson,PC,49930.87,40174.38,9756.490000000005,0.1953999599846749
+95-2190016,,Portugal,Books,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,Mobile,57859.08,47756.88,10102.200000000004,0.17460008005657893
+49-1493117,,Denmark,Appliances,Larkin-Collier,Modestia Byfford,Case Desorts,PC,26745.94,22600.32,4145.619999999999,0.15499997382780337
+45-3085595,2020-06-18,Spain,Games,Johns and Sons,Emalia Dinse,Manuel Goudie,Tablet,87205.01,69171.01,18034.0,0.20680004508915256
+72-7973717,2019-07-24,Portugal,Beauty,"Dickinson, Hyatt and Berge",Celine Tumasian,Corene Shirer,Tablet,216863.04,175355.45,41507.59,0.19140001910883475
+72-4825752,2020-07-22,Portugal,Games,"Dickinson, Hyatt and Berge",Celine Tumasian,Smitty Culverhouse,PC,154858.0,135376.86,19481.140000000014,0.12580002324710388
+80-3206606,,Ireland,Outdoors,"Christiansen, Donnelly and Bechtelar",Glenine Suttaby,Bunnie Tonbridge,PC,167301.52,147074.77,20226.75,0.12089997747778981
+22-5929243,,France,Outdoors,Johns and Sons,Othello Bowes,Amelina Piscopiello,PC,38750.53,31298.8,7451.73,0.19230007950858993
+96-5231814,2019-07-30,Finland,Appliances,O'Connell-Mitchell,Hube Corey,Mellicent Mattys,PC,145809.65,123136.25,22673.399999999994,0.1554999960565024
+84-1062113,2020-07-20,Germany,Clothing,Friesen-Rath,Rickard Doogood,Casie MacBain,PC,161823.46,130494.44,31329.01999999999,0.19359998853071114
+89-8942175,2020-09-24,Luxembourg,Accessories,Hegmann Group,Ilsa Kob,Jocelyn Laurentino,PC,175332.04,144999.6,30332.440000000002,0.17299998334588476
+44-9978904,2020-04-29,Sweden,Books,Romaguera-Dietrich,Maxie Marrow,Tarrah Castelletti,PC,97148.34,77806.11,19342.229999999996,0.1990999537408462
+28-1840061,2020-10-18,Sweden,Smartphones,"Farrell, Swaniawski and Crist",Maxie Marrow,Alyosha Meah,PC,146226.36,117916.94,28309.419999999984,0.1935999774596043
+19-3893110,2019-08-23,Portugal,Games,Johns and Sons,Celine Tumasian,Brynn Dempster,PC,139200.81,120172.06,19028.75,0.13669999477732925
+60-6998932,2020-07-14,Spain,Clothing,"Farrell, Swaniawski and Crist",Emalia Dinse,Perri Aldersley,PC,84900.24,73701.9,11198.340000000011,0.1318999804947549
+99-9599677,2019-06-14,Sweden,Clothing,Wyman Group,Maxie Marrow,Alyosha Meah,Mobile,138443.23,115101.7,23341.530000000013,0.16860001027135824
+11-5260310,2019-08-29,Netherlands,Smartphones,"Hamill, Kulas and Roob",Denice Amberg,Nero Harbisher,PC,62708.6,51414.78,11293.82,0.1801000181793247
+76-2368068,2020-12-29,Portugal,Beauty,"Zieme, Bailey and Herzog",Celine Tumasian,Corene Shirer,PC,134807.18,108047.95,26759.229999999996,0.19850003538387195
+35-6825112,,Portugal,Appliances,Walter LLC,Celine Tumasian,Brynn Dempster,Mobile,108689.45,91223.06,17466.39,0.16069995753957722
+41-6241712,,Portugal,Clothing,Wunsch LLC,Celine Tumasian,Aurelie Wren,PC,111551.96,89420.05,22131.910000000003,0.19840001018359518
+65-0441590,2020-03-26,France,Other,Hessel-Stiedemann,Othello Bowes,Maighdiln Upcraft,PC,89930.18,78005.44,11924.73999999999,0.13259997922833014
+62-1501210,2020-10-17,Netherlands,Books,"Schmitt, Purdy and Johnson",Denice Amberg,Nero Harbisher,Tablet,50241.47,43443.8,6797.669999999998,0.13529998226564624
+15-3657248,2020-01-22,Ireland,Games,"Spencer, Rogahn and Muller",Glenine Suttaby,Bunnie Tonbridge,PC,76767.77,64500.28,12267.490000000005,0.15980000461131025
+69-4462108,2020-03-19,Portugal,Smartphones,Gislason-Stanton,Celine Tumasian,Brynn Dempster,PC,60744.83,52805.48,7939.3499999999985,0.13070001183639823
+53-7680732,,France,Electronics,Johns and Sons,Othello Bowes,Avrit Chanders,Mobile,122468.33,103032.61,19435.72,0.1586999675752907
+31-8846200,,Portugal,Electronics,Hessel-Stiedemann,Celine Tumasian,Smitty Culverhouse,PC,74958.46,65806.03,9152.430000000008,0.12210002713502928
+34-3119010,,France,Smartphones,Walter LLC,Othello Bowes,Amelina Piscopiello,PC,66678.38,53009.31,13669.070000000007,0.20500003149446652
+24-3140242,,France,Electronics,"Rowe, Hermiston and Kessler",Othello Bowes,Amelina Piscopiello,PC,56106.13,45081.27,11024.86,0.1965000972264528
+60-9753536,2019-09-29,Sweden,Appliances,Larkin-Collier,Maxie Marrow,Alyosha Meah,Mobile,64842.92,56439.28,8403.64,0.12959996249397776
+13-6163562,2019-10-25,France,Smartphones,Wiza and Sons,Othello Bowes,Crysta Halls,PC,45481.24,37317.36,8163.879999999997,0.1794999432733144
+78-8990131,2020-08-23,Finland,Games,Johns and Sons,Hube Corey,Wat Bowkley,PC,107271.94,86665.0,20606.940000000002,0.19210000303900537
+14-9919657,2020-10-22,Portugal,Accessories,Morissette Group,Celine Tumasian,Aurelie Wren,PC,42847.46,34757.86,8089.5999999999985,0.18879998954430435
+84-5276032,2019-11-28,Sweden,Games,"Bashirian, Okuneva and Bechtelar",Maxie Marrow,Madelon Bront,PC,108978.79,95432.73,13546.059999999998,0.12429996699357736
+79-0973971,,France,Books,"Keeling, Monahan and Pollich",Othello Bowes,Avrit Chanders,Mobile,133905.55,116886.15,17019.399999999994,0.12710003431523187
+55-4588115,2020-03-27,UK,Outdoors,"Dickinson, Hyatt and Berge",Jessamine Apark,Genevra Charrisson,Mobile,65014.84,53669.75,11345.089999999997,0.17450000646006353
+52-8377955,,Sweden,Books,"Christiansen, Donnelly and Bechtelar",Maxie Marrow,Madelon Bront,PC,113763.38,91158.6,22604.78,0.19869996830262954
+37-2363680,2020-12-15,Luxembourg,Books,Morissette Group,Ilsa Kob,Jocelyn Laurentino,PC,294874.74,259106.43,35768.31,0.12130001369395017
+16-5837761,2020-11-13,Sweden,Clothing,McGlynn-Prosacco,Maxie Marrow,Madelon Bront,PC,73860.57,60336.7,13523.87000000001,0.18309999503117846
+01-8696189,2019-12-28,Luxembourg,Outdoors,Johns and Sons,Ilsa Kob,Jocelyn Laurentino,PC,182852.21,145440.65,37411.56,0.20459998815436795
+94-2134593,,Germany,Electronics,"Lueilwitz, Kerluke and Lesch",Rickard Doogood,Casie MacBain,PC,163546.81,133307.0,30239.809999999998,0.1849000295389436
+84-9254695,2019-04-22,UK,Games,Kihn Inc,Jessamine Apark,Winny Agnolo,PC,56768.43,47384.61,9383.82,0.16529997394678697
+18-0704377,,Portugal,Electronics,Kirlin and Sons,Celine Tumasian,Hortense Gerring,Mobile,143107.89,121241.0,21866.890000000014,0.1528000308019356
+03-4651559,,Sweden,Outdoors,"Farrell, Swaniawski and Crist",Maxie Marrow,Madelon Bront,Mobile,115339.49,100691.37,14648.12000000001,0.12700004135617393
+79-8966057,,Ireland,Clothing,Goldner-Dibbert,Glenine Suttaby,Palm Wetherald,PC,117358.02,102664.8,14693.220000000001,0.12519996503008488
+47-5524071,,Sweden,Appliances,Wunsch LLC,Maxie Marrow,Alyosha Meah,Tablet,54446.5,44989.14,9457.36,0.17370005418162784
+82-4495901,,Netherlands,Clothing,McClure Inc,Denice Amberg,Nero Harbisher,PC,152771.9,134423.99,18347.910000000003,0.1201000314848477
+36-2012010,2019-07-23,Portugal,Games,Johns and Sons,Celine Tumasian,Hortense Gerring,Mobile,211872.69,177930.69,33942.0,0.1601999766935512
+91-7317758,,France,Outdoors,Armstrong-Little,Othello Bowes,Avrit Chanders,PC,77043.84,63245.29,13798.549999999996,0.1790999773635374
+36-2694099,,Netherlands,Clothing,Corwin and Sons,Denice Amberg,Nero Harbisher,PC,353925.06,287528.72,66396.34000000003,0.18759999645122621
+74-9554997,2019-11-13,UK,Beauty,Tillman and Sons,Jessamine Apark,Jay Morefield,PC,176080.36,153401.21,22679.149999999994,0.12879999791004515
+57-5645459,,Finland,Electronics,"Hartmann, Hane and Pfannerstill",Hube Corey,Mellicent Mattys,PC,180250.02,147354.39,32895.629999999976,0.18250000748959683
+67-8646070,,Portugal,Books,"Bashirian, Okuneva and Bechtelar",Celine Tumasian,Aurelie Wren,Mobile,157754.36,132166.6,25587.75999999998,0.16220001779982487
+62-5120016,2019-01-17,UK,Electronics,Tillman and Sons,Jessamine Apark,Winny Agnolo,Mobile,87321.89,69254.99,18066.899999999994,0.206900010982355
+16-3842379,2020-02-28,Portugal,Smartphones,"Swaniawski, Runolfsson and Green",Celine Tumasian,Corene Shirer,Tablet,40467.85,34656.67,5811.18,0.1435999194422239
+73-8057834,2019-04-18,UK,Appliances,McGlynn-Prosacco,Jessamine Apark,Genevra Charrisson,PC,160763.9,131102.96,29660.940000000002,0.1845000027991359
+76-8416893,,Sweden,Electronics,"Schmitt, Purdy and Johnson",Maxie Marrow,Alyosha Meah,PC,156505.37,128647.41,27857.959999999992,0.17800002645276639
+80-1021367,,Sweden,Electronics,"Dickinson, Hyatt and Berge",Maxie Marrow,Madelon Bront,PC,118030.7,97304.51,20726.190000000002,0.17559999220541778
+89-2424262,2019-02-20,Sweden,Games,"Murray, Reichel and Nolan",Maxie Marrow,Tarrah Castelletti,PC,15100.57,12113.68,2986.8899999999994,0.19779981815255976
+01-1212783,2019-03-20,Portugal,Smartphones,McGlynn-Prosacco,Celine Tumasian,Corene Shirer,PC,105833.52,85312.4,20521.12000000001,0.19390000445983474
+20-1827241,,Denmark,Appliances,Walter LLC,Modestia Byfford,Cobby Andersen,PC,43609.57,34634.72,8974.849999999999,0.2058000113277888
+18-7046062,,Ireland,Smartphones,Considine-Fisher,Glenine Suttaby,Bunnie Tonbridge,PC,165709.19,138102.04,27607.149999999994,0.16659999363945954
+03-3542738,2019-10-28,Portugal,Clothing,Friesen-Rath,Celine Tumasian,Aurelie Wren,Mobile,57367.93,46255.76,11112.169999999998,0.1937000341479987
+73-3464233,,UK,Appliances,Johns and Sons,Jessamine Apark,Genevra Charrisson,Mobile,222700.23,194951.78,27748.45000000001,0.12460000602603782
+88-1349718,,Portugal,Appliances,Tillman and Sons,Celine Tumasian,Hortense Gerring,PC,97514.7,80790.93,16723.770000000004,0.1714999892323927
+52-9152387,,UK,Books,Johns and Sons,Jessamine Apark,Winny Agnolo,PC,99064.31,85393.44,13670.869999999995,0.13799995174851565
+85-9560144,,Portugal,Appliances,"Dickinson, Hyatt and Berge",Celine Tumasian,Corene Shirer,PC,254883.03,213413.56,41469.47,0.1627000039979123
+76-0724533,,Finland,Books,"Lueilwitz, Kerluke and Lesch",Hube Corey,Wat Bowkley,PC,154078.75,131336.73,22742.01999999999,0.14759997728434315
+36-7597839,2020-04-29,Ireland,Clothing,Walter LLC,Glenine Suttaby,Bunnie Tonbridge,PC,168178.03,142665.42,25512.609999999986,0.1517000169403815
+44-6408586,2020-03-21,France,Smartphones,Kirlin and Sons,Othello Bowes,Avrit Chanders,PC,99132.04,78819.89,20312.149999999994,0.20489994960257044
+18-0483044,,Ireland,Beauty,"Christiansen, Donnelly and Bechtelar",Glenine Suttaby,Palm Wetherald,PC,292124.64,245822.88,46301.76000000001,0.15850001560977536
+19-3129154,,Sweden,Beauty,McGlynn-Prosacco,Maxie Marrow,Anita Woakes,PC,37081.31,31304.04,5777.269999999997,0.15580005129268618
+74-8625042,2020-02-18,Portugal,Electronics,Stehr LLC,Celine Tumasian,Brynn Dempster,PC,105374.44,89779.02,15595.419999999998,0.1480000273311061
+97-4830372,2020-11-24,France,Electronics,Johns and Sons,Othello Bowes,Maighdiln Upcraft,PC,176114.73,149257.23,26857.5,0.1525000208670791
+57-8678621,2020-01-30,UK,Beauty,Gorczany-Lehner,Jessamine Apark,Winny Agnolo,Mobile,33724.53,26770.53,6954.0,0.20620005675394143
+21-8525376,,Finland,Clothing,"Farrell, Swaniawski and Crist",Hube Corey,Mellicent Mattys,Tablet,194531.02,158970.75,35560.26999999999,0.1827999976559008
+74-6473826,2019-08-16,France,Books,McGlynn-Bergstrom,Othello Bowes,Crysta Halls,PC,171458.64,148877.54,22581.100000000006,0.13169998315628775
+98-3051699,2020-10-17,Portugal,Books,Morissette Group,Celine Tumasian,Brynn Dempster,PC,97641.25,83414.92,14226.330000000002,0.14569999871980338
+66-4296261,,France,Books,"Fisher, Morar and Skiles",Othello Bowes,Avrit Chanders,PC,150287.47,123611.44,26676.03,0.17750002711470222
+64-5761908,2020-08-30,UK,Accessories,"Hermiston, Simonis and Wisoky",Jessamine Apark,Winny Agnolo,PC,156585.22,126599.15,29986.070000000007,0.1915000023629306
+68-6900528,,Sweden,Books,Larkin-Collier,Maxie Marrow,Alyosha Meah,PC,66225.71,52437.52,13788.19000000001,0.20819995738815045
+03-4045721,2019-04-18,France,Games,Romaguera-Haley,Othello Bowes,Amelina Piscopiello,PC,167935.31,137942.06,29993.25,0.1786000216392848
+82-0616982,,France,Clothing,Homenick-Marvin,Othello Bowes,Ora Grennan,PC,35437.89,30412.8,5025.09,0.1417999209320871
+07-1769568,2020-10-28,Portugal,Outdoors,O'Connell-Mitchell,Celine Tumasian,Corene Shirer,PC,133072.0,108600.06,24471.940000000002,0.1838999939882169
+52-0213558,2020-03-26,France,Books,Armstrong-Little,Othello Bowes,Amelina Piscopiello,PC,95307.21,78533.14,16774.070000000007,0.17600001091208112
+90-7039701,2020-07-17,UK,Appliances,Wunsch LLC,Jessamine Apark,Winny Agnolo,PC,36534.09,31138.0,5396.0899999999965,0.1477001343129115
+75-7291972,,Portugal,Appliances,Considine-Fisher,Celine Tumasian,Smitty Culverhouse,PC,98746.66,80399.53,18347.130000000005,0.18580000579260103
+27-7554919,,Finland,Other,Romaguera-Dietrich,Hube Corey,Wat Bowkley,PC,133057.07,113351.32,19705.75,0.1480999844653125
+74-6221213,2019-12-13,France,Electronics,"Christiansen, Donnelly and Bechtelar",Othello Bowes,Ora Grennan,PC,197581.29,169485.23,28096.059999999998,0.14220000284439888
+50-0942872,,Belgium,Appliances,Armstrong-Little,Lambert Norheny,Collin Mackness,Mobile,93153.98,79702.55,13451.429999999993,0.14439994941708334
+37-6033123,,Portugal,Smartphones,"Christiansen, Donnelly and Bechtelar",Celine Tumasian,Hortense Gerring,PC,53181.88,42316.82,10865.059999999998,0.2043000360273085
+13-1936536,2019-10-24,UK,Appliances,Hessel-Stiedemann,Jessamine Apark,Genevra Charrisson,Mobile,112491.58,92254.34,20237.240000000005,0.17990004229649903
+68-9875936,,Portugal,Books,Stamm Inc,Celine Tumasian,Smitty Culverhouse,PC,56570.64,46993.23,9577.409999999996,0.16930001145470505
+64-1003834,2019-01-21,France,Beauty,Kihn Inc,Othello Bowes,Maighdiln Upcraft,PC,134243.39,113019.51,21223.88000000002,0.15810000030541554
+75-6291395,2020-08-26,Portugal,Beauty,Hilll-Vandervort,Celine Tumasian,Aurelie Wren,PC,127482.28,108614.9,18867.380000000005,0.14800002008122232
+31-9806848,2019-04-30,France,Appliances,Hilll-Vandervort,Othello Bowes,Avrit Chanders,Tablet,155827.3,126360.36,29466.939999999988,0.1890999844058133
+74-7472724,2020-01-28,Portugal,Games,Larkin-Collier,Celine Tumasian,Smitty Culverhouse,PC,115538.34,99686.48,15851.86,0.13719999785352638
+66-6777720,,Portugal,Other,Schoen-Keeling,Celine Tumasian,Aurelie Wren,Mobile,45725.53,36571.28,9154.25,0.20019997581219945
+18-5234470,,France,Electronics,"Zieme, Bailey and Herzog",Othello Bowes,Ora Grennan,PC,57292.84,45908.75,11384.089999999997,0.19870004698667404
+82-8353642,,Portugal,Beauty,Wisoky Inc,Celine Tumasian,Smitty Culverhouse,PC,166367.16,135788.88,30578.28,0.18379997590870698
+93-5465623,2020-09-16,France,Clothing,Tillman and Sons,Othello Bowes,Ora Grennan,Mobile,75264.84,61694.59,13570.25,0.18029999133725655
+77-3226391,2019-08-13,Spain,Outdoors,Goldner-Dibbert,Emalia Dinse,Bertha Walbrook,PC,77855.47,63545.63,14309.840000000004,0.18380005926365872
+02-9253490,2019-06-25,Portugal,Electronics,"Spencer, Rogahn and Muller",Celine Tumasian,Hortense Gerring,PC,119409.43,102656.29,16753.14,0.1402999746334942
+78-6287811,,France,Appliances,"Lubowitz, McLaughlin and Erdman",Othello Bowes,Crysta Halls,Mobile,85337.78,72306.7,13031.080000000002,0.15270001164783056
+10-9932801,,UK,Games,"Swaniawski, Runolfsson and Green",Jessamine Apark,Genevra Charrisson,PC,100094.97,84690.35,15404.619999999995,0.1539000411309379
+29-0601002,,Finland,Games,West-Cummings,Hube Corey,Wat Bowkley,PC,293767.28,254079.32,39687.96000000002,0.13510000160671407
+43-9259516,2019-12-18,Sweden,Accessories,Franecki-White,Maxie Marrow,Anita Woakes,PC,207379.28,166442.61,40936.67000000001,0.19740000061722662
+13-0526029,,Sweden,Clothing,Johns and Sons,Maxie Marrow,Alyosha Meah,Unknown,56717.53,45101.78,11615.75,0.20479999746110242
+92-3462655,2019-06-26,France,Books,"Keeling, Monahan and Pollich",Othello Bowes,Maighdiln Upcraft,PC,195214.72,154649.1,40565.619999999995,0.20780000606511637
+74-4541594,,Portugal,Beauty,"Heaney, Gulgowski and Kshlerin",Celine Tumasian,Hortense Gerring,Tablet,110441.89,90970.98,19470.910000000003,0.1763000433983881
+39-3557596,2019-04-25,Sweden,Clothing,Johns and Sons,Maxie Marrow,Madelon Bront,PC,112909.4,93940.62,18968.78,0.1680000070853268
+02-1124101,2019-12-25,UK,Smartphones,Smith Group,Jessamine Apark,Genevra Charrisson,PC,290010.79,234444.72,55566.06999999998,0.19160000908931693
+55-1395838,,France,Clothing,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,PC,108713.83,90341.19,18372.64,0.1690000251118004
+52-7049356,2019-02-25,Sweden,Electronics,"Dickinson, Hyatt and Berge",Maxie Marrow,Alyosha Meah,PC,110837.96,92106.34,18731.62000000001,0.16900004294557577
+99-9215178,,Portugal,Appliances,Wisoky Inc,Celine Tumasian,Corene Shirer,PC,178027.46,144985.56,33041.899999999994,0.18560001923298797
+75-6127722,,Portugal,Clothing,Walter LLC,Celine Tumasian,Hortense Gerring,PC,57345.79,45716.06,11629.730000000003,0.2028000660554158
+65-5376517,,France,Appliances,"Schowalter, Lesch and Beahan",Othello Bowes,Avrit Chanders,Mobile,63298.61,53645.57,9653.04,0.15250003120131708
+68-9634139,2019-02-19,UK,Clothing,"Dickinson, Hyatt and Berge",Jessamine Apark,Jay Morefield,PC,28328.78,24408.08,3920.699999999997,0.13839988873506015
+87-0922827,2020-04-26,UK,Beauty,Considine-Fisher,Jessamine Apark,Winny Agnolo,PC,169262.2,141080.04,28182.160000000003,0.16650002185957646
+70-1769929,2019-09-26,France,Other,"Rowe, Hermiston and Kessler",Othello Bowes,Amelina Piscopiello,PC,67594.1,54920.21,12673.890000000007,0.18749994452178526
+22-6938537,2020-10-30,France,Appliances,Wisoky Inc,Othello Bowes,Amelina Piscopiello,PC,143658.22,123158.19,20500.03,0.142700013963698
+86-3876359,2020-11-20,Bulgaria,Books,Hessel-Stiedemann,Charil Alpe,Bernadine Fullagar,PC,33210.56,29109.06,4101.499999999996,0.12349987473863724
+06-4611284,2019-03-28,Portugal,Games,Romaguera-Haley,Celine Tumasian,Smitty Culverhouse,PC,21341.66,16930.34,4411.32,0.20669994742676998
+31-2600204,2019-01-18,Portugal,Games,Kihn Inc,Celine Tumasian,Corene Shirer,Mobile,129353.22,111593.02,17760.199999999997,0.13730002237284852
+12-1249283,2019-03-29,France,Clothing,Dibbert Inc,Othello Bowes,Maighdiln Upcraft,PC,28783.05,24776.45,4006.5999999999985,0.1391999805441049
+96-1991854,2020-01-21,Ireland,Books,"Farrell, Swaniawski and Crist",Glenine Suttaby,Bunnie Tonbridge,PC,165747.2,132912.68,32834.52000000002,0.19809999806934908
+33-4706706,,France,Smartphones,Smith Group,Othello Bowes,Crysta Halls,PC,87355.7,74584.3,12771.399999999994,0.14619996176551725
+88-1711226,,UK,Clothing,Friesen and Sons,Jessamine Apark,Winny Agnolo,Mobile,66391.58,52635.24,13756.340000000004,0.20720006964738605
+74-4429133,,Portugal,Games,"Hamill, Kulas and Roob",Celine Tumasian,Hortense Gerring,Mobile,43066.58,36154.39,6912.190000000002,0.16050009078965644
+31-7075495,,Portugal,Smartphones,"Bashirian, Okuneva and Bechtelar",Celine Tumasian,Aurelie Wren,PC,109713.84,95769.21,13944.62999999999,0.12710000853128456
+99-9093075,2019-07-19,Netherlands,Appliances,Stamm-Zulauf,Denice Amberg,Nero Harbisher,PC,43008.69,34458.56,8550.130000000005,0.19880005645370746
+54-1058965,2020-05-22,Bulgaria,Games,Friesen-Rath,Charil Alpe,Shermy McGready,PC,40187.99,32508.07,7679.919999999998,0.1910998783467399
+95-3196761,2019-01-21,Portugal,Appliances,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,Mobile,84224.98,68239.08,15985.899999999994,0.18979998570495352
+48-2932903,,France,Appliances,Johns and Sons,Othello Bowes,Amelina Piscopiello,PC,57276.26,49223.22,8053.040000000001,0.14059996235787742
+36-4321653,,Portugal,Beauty,Tromp LLC,Celine Tumasian,Hortense Gerring,PC,172340.86,136562.9,35777.95999999999,0.20759998528497534
+95-7886861,,Finland,Clothing,Smith Group,Hube Corey,Mellicent Mattys,Mobile,25816.05,21447.97,4368.079999999998,0.1692001681124726
+19-9649739,2019-06-30,France,Appliances,"Rowe, Hermiston and Kessler",Othello Bowes,Ora Grennan,PC,238850.25,199607.15,39243.100000000006,0.1643000164328905
+59-2117058,,Belgium,Appliances,Johns and Sons,Lambert Norheny,Collin Mackness,Mobile,118061.05,101131.1,16929.949999999997,0.1433999612912133
+28-6152726,2020-09-28,France,Books,Hessel-Stiedemann,Othello Bowes,Crysta Halls,PC,121043.69,96750.22,24293.47,0.20070001170651688
+34-8728117,,Sweden,Other,"Lueilwitz, Kerluke and Lesch",Maxie Marrow,Caro Morfield,PC,24787.65,20454.77,4332.880000000001,0.17479995078194185
+98-8250897,,France,Appliances,Kihn Inc,Othello Bowes,Crysta Halls,PC,86628.32,72464.59,14163.73000000001,0.163499996306058
+65-2631885,2020-06-29,France,Books,Friesen-Rath,Othello Bowes,Ora Grennan,PC,154936.24,135739.64,19196.599999999977,0.12389999912221943
+91-4296427,,France,Books,"Bashirian, Okuneva and Bechtelar",Othello Bowes,Avrit Chanders,Mobile,36183.97,30579.07,5604.9000000000015,0.1549000842085598
+30-9137723,2019-11-15,France,Electronics,"Swaniawski, Runolfsson and Green",Othello Bowes,Avrit Chanders,PC,71079.8,56778.54,14301.260000000002,0.20120005965126522
+35-7483371,,France,Beauty,Armstrong-Little,Othello Bowes,Ora Grennan,PC,111676.46,92791.97,18884.490000000005,0.1691000054980253
+86-6380587,2020-08-26,Sweden,Smartphones,McGlynn-Bergstrom,Maxie Marrow,Anita Woakes,PC,137026.71,120117.61,16909.09999999999,0.12340002908921911
+04-4730440,2020-01-19,Sweden,Games,"Keeling, Monahan and Pollich",Maxie Marrow,Tarrah Castelletti,Mobile,84537.2,69405.04,15132.160000000003,0.17900001419493436
+47-5733147,,Sweden,Smartphones,Hilll-Vandervort,Maxie Marrow,Caro Morfield,PC,140352.81,122303.44,18049.369999999995,0.128599990267384
+69-6259390,,Portugal,Books,Schoen-Keeling,Celine Tumasian,Smitty Culverhouse,Unknown,71620.08,62245.01,9375.07,0.13090002133479883
+59-3526945,,Portugal,Books,O'Connell-Mitchell,Celine Tumasian,Aurelie Wren,PC,227830.33,182173.13,45657.19999999998,0.20040000819908388
+12-3815754,2019-12-25,France,Books,"Christiansen, Donnelly and Bechtelar",Othello Bowes,Maighdiln Upcraft,PC,235042.75,187446.59,47596.16,0.20250001329545372
+23-1397222,,Portugal,Appliances,"Christiansen, Donnelly and Bechtelar",Celine Tumasian,Smitty Culverhouse,PC,50303.66,41103.12,9200.54,0.18290001164925176
+80-1374023,2020-06-26,France,Beauty,Larkin-Collier,Othello Bowes,Maighdiln Upcraft,PC,131097.05,109203.84,21893.209999999992,0.16700002021403224
+98-4201877,2019-06-20,Finland,Clothing,"Hartmann, Hane and Pfannerstill",Hube Corey,Wat Bowkley,Tablet,204138.34,165617.44,38520.899999999994,0.1886999766922764
+26-9948924,2020-01-20,Portugal,Games,Considine-Fisher,Celine Tumasian,Aurelie Wren,Tablet,37273.84,31559.76,5714.079999999998,0.15330000879973726
+04-8899739,2019-07-24,France,Beauty,Considine-Fisher,Othello Bowes,Crysta Halls,PC,109697.86,89853.52,19844.339999999997,0.18089997380076508
+76-1827989,2019-02-13,Spain,Books,Johns and Sons,Emalia Dinse,Perri Aldersley,PC,42475.6,35802.68,6672.919999999998,0.15710007627908726
+67-3929836,,Spain,Electronics,Johns and Sons,Emalia Dinse,Bertha Walbrook,PC,81412.1,64747.04,16665.060000000005,0.2047000384463735
+60-7663173,,UK,Books,Gislason-Stanton,Jessamine Apark,Winny Agnolo,PC,126074.62,100027.6,26047.01999999999,0.2066000278247913
+86-6763776,,Sweden,Books,Dibbert Inc,Maxie Marrow,Anita Woakes,PC,80867.18,63982.11,16885.069999999992,0.20880003482253237
+02-3972649,,UK,Beauty,Johns and Sons,Jessamine Apark,Genevra Charrisson,PC,149486.27,118662.2,30824.069999999992,0.2062000075324643
+87-5540520,,Bulgaria,Games,"Hermiston, Simonis and Wisoky",Charil Alpe,Bernadine Fullagar,PC,111106.06,93195.76,17910.300000000003,0.16120002815327988
+99-8643527,2019-07-15,France,Clothing,Altenwerth-Konopelski,Othello Bowes,Avrit Chanders,PC,115689.22,98127.6,17561.619999999995,0.15179996891672357
+47-7207206,2019-01-27,Sweden,Games,Stamm Inc,Maxie Marrow,Alyosha Meah,PC,147994.63,129643.3,18351.33,0.12399997216115208
+70-0044622,2020-01-28,Bulgaria,Games,Armstrong-Little,Charil Alpe,Bernadine Fullagar,PC,122998.65,97476.43,25522.22,0.20750000101627133
+86-6760202,2019-06-15,France,Appliances,McGlynn-Bergstrom,Othello Bowes,Avrit Chanders,PC,79833.6,63411.83,16421.770000000004,0.20569998096039765
+64-9816105,2019-01-27,France,Electronics,Wiza and Sons,Othello Bowes,Avrit Chanders,PC,90228.68,77966.6,12262.079999999987,0.13590002646608582
+20-1013432,2019-11-26,Sweden,Electronics,Stamm-Zulauf,Maxie Marrow,Tarrah Castelletti,PC,68086.96,58759.05,9327.910000000003,0.13699994830140752
+75-5652593,,Portugal,Appliances,Morissette Group,Celine Tumasian,Hortense Gerring,Tablet,172202.38,149816.07,22386.309999999998,0.13000000348427238
+77-7771177,,France,Electronics,"Murray, Reichel and Nolan",Othello Bowes,Avrit Chanders,PC,144640.8,118345.1,26295.699999999983,0.18180001769901705
+41-0722740,,Sweden,Appliances,Armstrong-Little,Maxie Marrow,Anita Woakes,PC,152747.92,130614.75,22133.170000000013,0.14489997637938384
+85-5544928,2019-05-20,France,Clothing,Johns and Sons,Othello Bowes,Ora Grennan,PC,48890.14,41180.16,7709.979999999996,0.15770010067469628
+70-7769332,,Portugal,Beauty,Walter LLC,Celine Tumasian,Aurelie Wren,PC,177919.14,147370.42,30548.72,0.17170002058238365
+46-9710750,,Luxembourg,Beauty,"Schmitt, Purdy and Johnson",Ilsa Kob,Jocelyn Laurentino,PC,68984.17,59560.93,9423.239999999998,0.1366000344716766
+44-9036885,,Bulgaria,Books,Altenwerth-Konopelski,Charil Alpe,Bernadine Fullagar,PC,230669.37,182321.07,48348.29999999999,0.20960000020809
+64-4188827,2019-03-25,UK,Books,Armstrong-Little,Jessamine Apark,Winny Agnolo,PC,91561.49,78266.76,13294.73000000001,0.14520001804251995
+61-3721294,2020-10-31,Sweden,Clothing,Gleichner-Green,Maxie Marrow,Tarrah Castelletti,PC,89502.53,72488.1,17014.429999999993,0.19009998935225622
+34-0232219,,Portugal,Smartphones,Tillman and Sons,Celine Tumasian,Smitty Culverhouse,PC,116023.51,96566.37,19457.14,0.16769997735803718
+81-1454737,2019-01-29,Sweden,Clothing,O'Connell-Mitchell,Maxie Marrow,Alyosha Meah,PC,83119.87,69604.58,13515.289999999994,0.16259998962943512
+57-7927520,2019-01-13,Portugal,Games,Larkin-Collier,Celine Tumasian,Hortense Gerring,PC,126974.92,101516.45,25458.47,0.20049998850166634
+72-2796883,2019-01-13,France,Electronics,Kihn Inc,Othello Bowes,Crysta Halls,PC,40535.64,35480.85,5054.790000000001,0.12469989372315328
+94-1199389,2020-08-16,Sweden,Clothing,Corwin and Sons,Maxie Marrow,Caro Morfield,Mobile,88329.48,73755.12,14574.36,0.16499995245075597
+97-8921759,,France,Clothing,Walter LLC,Othello Bowes,Avrit Chanders,Tablet,42290.45,34255.26,8035.189999999995,0.19000010640700196
+96-1388247,2019-01-14,Sweden,Electronics,Labadie and Sons,Maxie Marrow,Caro Morfield,PC,100578.6,83208.68,17369.920000000013,0.1726999580427647
+46-5888587,2019-02-14,Bulgaria,Games,McGlynn-Bergstrom,Charil Alpe,Bernadine Fullagar,PC,138153.7,112926.83,25226.87000000001,0.18260003170381978
+44-0527427,2020-01-14,Portugal,Clothing,"Parisian, Steuber and Satterfield",Celine Tumasian,Hortense Gerring,Tablet,120332.26,102282.42,18049.839999999997,0.15000000831032342
+47-0640313,2020-03-25,Ireland,Beauty,"Zieme, Bailey and Herzog",Glenine Suttaby,Bunnie Tonbridge,PC,85294.3,72662.21,12632.089999999997,0.1481000488895506
+50-8357453,,France,Appliances,Konopelski LLC,Othello Bowes,Amelina Piscopiello,PC,110878.97,90588.12,20290.850000000006,0.18299998638154744
+46-8792953,,Ireland,Smartphones,Dibbert Inc,Glenine Suttaby,Palm Wetherald,PC,77278.68,62951.21,14327.469999999994,0.18540003530080995
+47-9701762,,France,Electronics,Gislason-Stanton,Othello Bowes,Avrit Chanders,Mobile,141112.84,120044.69,21068.149999999994,0.1493000211745437
+66-2612057,,UK,Games,"Schowalter, Lesch and Beahan",Jessamine Apark,Jay Morefield,PC,173722.59,148063.76,25658.829999999987,0.14770001989954207
+11-6024248,,France,Clothing,Dibbert Inc,Othello Bowes,Crysta Halls,PC,47680.2,40575.85,7104.3499999999985,0.14900000419461326
+93-4118211,2020-08-31,Ireland,Smartphones,"Heaney, Gulgowski and Kshlerin",Glenine Suttaby,Palm Wetherald,Mobile,50495.53,40749.89,9745.64,0.19300005366811676
+33-8547717,,Sweden,Other,Tillman and Sons,Maxie Marrow,Madelon Bront,PC,114427.36,93727.45,20699.910000000003,0.1809000050337612
+76-3837496,2020-05-18,Sweden,Beauty,"Murray, Reichel and Nolan",Maxie Marrow,Madelon Bront,PC,44147.92,37163.72,6984.199999999997,0.15819997861733912
+24-6566439,2020-05-17,France,Games,Hegmann Group,Othello Bowes,Avrit Chanders,PC,37397.43,30837.92,6559.510000000002,0.17540002080356865
+28-0622425,2019-08-22,Portugal,Games,Tillman and Sons,Celine Tumasian,Corene Shirer,PC,168773.6,137398.59,31375.01000000001,0.18589998672778213
+99-3994854,2019-08-15,Sweden,Outdoors,Corwin and Sons,Maxie Marrow,Madelon Bront,PC,71049.09,58842.86,12206.229999999996,0.17179994845817162
+71-2709641,2020-02-13,France,Appliances,Altenwerth-Konopelski,Othello Bowes,Avrit Chanders,PC,62788.04,53049.61,9738.43,0.15510007956929378
+84-4465649,2020-12-15,France,Appliances,Armstrong-Little,Othello Bowes,Crysta Halls,PC,249915.21,215326.95,34588.25999999998,0.13839997973712756
+37-7100862,,Finland,Games,Johns and Sons,Hube Corey,Mellicent Mattys,PC,178189.57,153421.22,24768.350000000006,0.13899999870923985
+57-6427586,2020-08-23,Sweden,Books,Schoen-Keeling,Maxie Marrow,Tarrah Castelletti,PC,103839.74,90683.24,13156.5,0.1267000475925691
+97-8712680,,Portugal,Clothing,"Dickinson, Hyatt and Berge",Celine Tumasian,Hortense Gerring,PC,55132.39,47121.65,8010.739999999998,0.14530006770974374
+06-8466490,,Portugal,Appliances,"Shanahan, Schaden and Parker",Celine Tumasian,Corene Shirer,PC,163492.16,134178.02,29314.140000000014,0.17929997377244275
+88-5406813,2020-11-20,Sweden,Clothing,Larkin-Collier,Maxie Marrow,Caro Morfield,PC,36644.05,30491.51,6152.5400000000045,0.1679001092946878
+55-4422832,2019-05-13,Sweden,Electronics,West-Cummings,Maxie Marrow,Anita Woakes,PC,43158.94,36244.88,6914.060000000005,0.16019994930366696
+11-5257937,2020-07-20,UK,Electronics,"Keeling, Monahan and Pollich",Jessamine Apark,Jay Morefield,PC,227856.66,199010.01,28846.649999999994,0.1265999861491869
+56-0800364,2019-09-27,Portugal,Clothing,Larkin-Collier,Celine Tumasian,Corene Shirer,PC,162637.68,130402.89,32234.789999999994,0.19820001121511321
+29-0072186,,UK,Clothing,Wunsch LLC,Jessamine Apark,Genevra Charrisson,PC,304337.49,261730.24,42607.25,0.14000000460015624
+74-9856135,2020-08-27,France,Electronics,Hegmann Group,Othello Bowes,Crysta Halls,Mobile,63690.72,53455.62,10235.099999999999,0.1607000203483333
+63-2957047,2019-05-16,Sweden,Clothing,Johns and Sons,Maxie Marrow,Alyosha Meah,PC,43243.45,37764.5,5478.949999999997,0.12670011296508482
+21-8595718,,UK,Smartphones,"Swaniawski, Runolfsson and Green",Jessamine Apark,Jay Morefield,Tablet,21921.66,18802.21,3119.4500000000007,0.14229989882153088
+14-1283254,2020-10-25,Sweden,Appliances,"Farrell, Swaniawski and Crist",Maxie Marrow,Madelon Bront,PC,115151.22,91430.07,23721.149999999994,0.20599998853681267
+79-0393736,2020-05-23,Sweden,Beauty,Johns and Sons,Maxie Marrow,Anita Woakes,PC,69565.47,57808.91,11756.559999999998,0.1689999363189812
+55-3118263,,Spain,Other,Hessel-Stiedemann,Emalia Dinse,Perri Aldersley,PC,42028.45,36299.97,5728.479999999996,0.13630005389206587
+91-4126746,,Portugal,Appliances,Hessel-Stiedemann,Celine Tumasian,Smitty Culverhouse,Mobile,78461.13,63537.82,14923.310000000005,0.19020003917863537
+59-5711012,2019-06-28,France,Appliances,Johns and Sons,Othello Bowes,Crysta Halls,PC,197471.1,162577.96,34893.140000000014,0.1766999829342117
+56-8476539,2019-08-13,Portugal,Games,"Hartmann, Hane and Pfannerstill",Celine Tumasian,Aurelie Wren,PC,119937.47,98720.53,21216.940000000002,0.1769000129817646
+97-5858605,,Sweden,Electronics,Romaguera-Haley,Maxie Marrow,Madelon Bront,Mobile,106076.67,84765.87,21310.800000000003,0.2008999716902878
+75-8968627,2019-03-13,France,Smartphones,Corwin and Sons,Othello Bowes,Crysta Halls,PC,75522.66,60448.34,15074.320000000007,0.19959996112425074
+55-5032186,,UK,Books,"Bashirian, Okuneva and Bechtelar",Jessamine Apark,Jay Morefield,PC,119769.22,98234.71,21534.509999999995,0.17980003543481368
+93-8309926,2019-01-13,France,Smartphones,Kihn Inc,Othello Bowes,Crysta Halls,PC,168197.78,144246.42,23951.359999999986,0.14239997697948206
+26-5649751,2019-09-30,France,Games,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,PC,68773.03,59082.91,9690.119999999995,0.14090000106146255
+58-9822844,2019-02-20,Sweden,Beauty,Romaguera-Haley,Maxie Marrow,Caro Morfield,PC,62272.96,54600.93,7672.029999999999,0.12320002132546773
+59-5892824,,France,Clothing,Smith Group,Othello Bowes,Amelina Piscopiello,PC,165118.74,137527.4,27591.339999999997,0.16709999119421573
+83-7592334,2020-06-21,Portugal,Accessories,Larkin-Collier,Celine Tumasian,Aurelie Wren,PC,122035.93,97897.22,24138.709999999992,0.19780002495986218
+45-5509135,2019-07-13,Sweden,Electronics,Connelly-Mohr,Maxie Marrow,Tarrah Castelletti,PC,117733.51,97294.97,20438.539999999994,0.17360002262737256
+98-1814878,2020-06-14,Sweden,Appliances,"Schmitt, Purdy and Johnson",Maxie Marrow,Tarrah Castelletti,PC,240759.07,205415.64,35343.42999999999,0.1467999938693898
+17-1884075,,Portugal,Clothing,Wisoky Inc,Celine Tumasian,Hortense Gerring,Mobile,147895.45,120416.48,27478.970000000016,0.1857999688293319
+19-4538571,2020-06-23,Sweden,Electronics,Stehr-Bogan,Maxie Marrow,Caro Morfield,PC,205059.8,173029.46,32030.339999999997,0.15619999629376405
+28-0362135,,Bulgaria,Electronics,Johns and Sons,Charil Alpe,Shermy McGready,PC,81482.69,64721.7,16760.990000000005,0.20570000818578774
+26-9826298,2020-01-25,France,Smartphones,Altenwerth-Konopelski,Othello Bowes,Avrit Chanders,PC,168226.52,136818.63,31407.889999999985,0.186699992367434
+94-3590580,,Portugal,Games,Schuster Inc,Celine Tumasian,Corene Shirer,Mobile,201573.23,166116.5,35456.73000000001,0.17589999426015057
+22-6745595,,Portugal,Beauty,Romaguera-Dietrich,Celine Tumasian,Hortense Gerring,PC,172989.17,142975.55,30013.620000000024,0.17349999424819498
+81-9457605,2020-11-23,Portugal,Books,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,PC,158240.24,136561.33,21678.910000000003,0.13699998179982542
+99-7422044,2019-01-29,France,Books,Johns and Sons,Othello Bowes,Avrit Chanders,PC,173478.65,139650.31,33828.34,0.1950000187342938
+58-2923511,2019-05-20,Bulgaria,Clothing,Hessel-Stiedemann,Charil Alpe,Shermy McGready,PC,174271.91,142083.89,32188.01999999999,0.18469998980329067
+10-9241948,2020-03-21,Ireland,Electronics,Altenwerth-Konopelski,Glenine Suttaby,Palm Wetherald,PC,55539.67,45620.29,9919.379999999997,0.1785999088579388
+08-5093310,2020-10-15,Sweden,Games,Hilll-Vandervort,Maxie Marrow,Madelon Bront,PC,36749.51,30101.52,6647.990000000002,0.18090009907615098
+23-0941629,2019-02-25,UK,Beauty,Smith Group,Jessamine Apark,Winny Agnolo,Tablet,19949.11,16364.25,3584.8600000000006,0.17970024727920195
+79-6118087,2019-02-16,France,Clothing,Gislason-Stanton,Othello Bowes,Amelina Piscopiello,PC,105522.72,86581.39,18941.33,0.17950001667887258
+39-2536155,,Portugal,Clothing,Hane Inc,Celine Tumasian,Brynn Dempster,PC,131018.65,107920.06,23098.589999999997,0.17630001530316483
+46-0117523,,France,Outdoors,Johns and Sons,Othello Bowes,Crysta Halls,PC,56705.66,46986.31,9719.350000000006,0.17139999781326953
+92-7917751,,Portugal,Clothing,Corwin and Sons,Celine Tumasian,Brynn Dempster,PC,148212.23,123030.97,25181.26000000001,0.16990001432405413
+80-8230605,,France,Other,"Spencer, Rogahn and Muller",Othello Bowes,Ora Grennan,PC,138175.53,116744.51,21431.020000000004,0.15509996596358272
+43-4245267,2020-01-15,Ireland,Electronics,"Hamill, Kulas and Roob",Glenine Suttaby,Palm Wetherald,PC,135424.06,116275.1,19148.959999999992,0.14139998461130165
+30-4823900,2020-12-13,Ireland,Games,Johns and Sons,Glenine Suttaby,Bunnie Tonbridge,PC,58921.31,51715.23,7206.0799999999945,0.12230006427216222
+29-1001593,2020-03-28,Sweden,Beauty,"Swaniawski, Runolfsson and Green",Maxie Marrow,Caro Morfield,PC,74273.54,61981.27,12292.269999999997,0.16549998828654186
+89-3466746,2020-01-31,Sweden,Outdoors,"Hermiston, Simonis and Wisoky",Maxie Marrow,Caro Morfield,PC,116469.33,95190.38,21278.949999999997,0.1827000292695081
+20-1191256,2020-10-18,Portugal,Games,"Bashirian, Okuneva and Bechtelar",Celine Tumasian,Smitty Culverhouse,Mobile,149514.0,122646.33,26867.67,0.17970002809101487
+24-2442637,,Sweden,Clothing,Wisoky Inc,Maxie Marrow,Tarrah Castelletti,PC,161192.45,135965.83,25226.620000000024,0.15650000977092923
+31-8836719,2020-12-26,France,Books,"Zieme, Bailey and Herzog",Othello Bowes,Avrit Chanders,Mobile,84194.21,71885.02,12309.190000000002,0.14619995840569086
+98-2104934,2019-04-22,France,Clothing,Wisoky Inc,Othello Bowes,Avrit Chanders,PC,163401.23,139413.93,23987.300000000017,0.1467999965483737
+29-1888759,2020-04-30,Portugal,Beauty,O'Connell-Mitchell,Celine Tumasian,Corene Shirer,PC,131610.37,106406.98,25203.39,0.19150003149447875
+43-6672888,,France,Clothing,"Leffler, Prohaska and Streich",Othello Bowes,Maighdiln Upcraft,PC,110090.36,93433.69,16656.67,0.15129998666549913
+76-5919033,2019-10-23,UK,Outdoors,Johns and Sons,Jessamine Apark,Jay Morefield,PC,169629.55,135347.42,34282.129999999976,0.20209998788536537
+76-5888381,2020-06-25,Sweden,Electronics,"Jacobson, Marvin and Brown",Maxie Marrow,Tarrah Castelletti,PC,185778.3,154734.75,31043.54999999999,0.1670999788457532
+85-4732103,,Portugal,Smartphones,Goldner-Dibbert,Celine Tumasian,Corene Shirer,PC,147656.52,124193.9,23462.619999999995,0.15889999303789631
+22-9949979,,Sweden,Other,Walter LLC,Maxie Marrow,Tarrah Castelletti,PC,296844.24,244926.18,51918.06,0.1749000081658987
+16-5710075,,Portugal,Smartphones,Homenick-Marvin,Celine Tumasian,Brynn Dempster,Tablet,179323.22,150739.1,28584.119999999995,0.15939999292896923
+21-2357660,2019-12-23,Netherlands,Books,Schuster Inc,Denice Amberg,Nero Harbisher,PC,203231.73,163052.82,40178.91,0.19769998513519518
+95-6123269,2020-06-23,Portugal,Electronics,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,PC,157942.65,136620.39,21322.25999999998,0.13500001424567704
+82-9352154,2019-11-24,France,Accessories,McClure Inc,Othello Bowes,Maighdiln Upcraft,PC,102771.44,83584.01,19187.430000000008,0.1867000209396697
+38-7603760,2020-11-28,Portugal,Games,Gislason-Stanton,Celine Tumasian,Hortense Gerring,Tablet,41921.61,34773.98,7147.629999999997,0.17049989253752415
+35-6942653,,Portugal,Appliances,Hessel-Stiedemann,Celine Tumasian,Smitty Culverhouse,PC,107232.99,85207.33,22025.660000000003,0.20540003594043216
+40-0265810,2020-11-21,Sweden,Beauty,Tillman and Sons,Maxie Marrow,Madelon Bront,PC,45261.84,37816.27,7445.57,0.16449994078897368
+63-7370049,,France,Appliances,Johns and Sons,Othello Bowes,Ora Grennan,PC,74103.82,64811.2,9292.62000000001,0.12540001311673282
+78-6165949,2020-06-30,Sweden,Electronics,"Schmitt, Purdy and Johnson",Maxie Marrow,Tarrah Castelletti,PC,263713.12,216165.64,47547.47999999998,0.18030001692748537
+00-6227453,2020-05-21,France,Games,Goldner-Dibbert,Othello Bowes,Crysta Halls,PC,80839.75,63936.16,16903.589999999997,0.20909997866148766
+29-9208067,,France,Appliances,Romaguera-Dietrich,Othello Bowes,Crysta Halls,PC,144927.17,122260.56,22666.610000000015,0.15640000422281075
+73-3910940,2019-05-31,Portugal,Beauty,"Farrell, Swaniawski and Crist",Celine Tumasian,Smitty Culverhouse,Mobile,30550.32,25457.58,5092.739999999998,0.16670005420565145
+55-2128150,2019-09-23,France,Beauty,Dibbert Inc,Othello Bowes,Amelina Piscopiello,PC,173829.96,149824.04,24005.919999999984,0.13810001451993653
+52-3394023,,Germany,Accessories,"Farrell, Swaniawski and Crist",Rickard Doogood,Casie MacBain,PC,76652.73,64311.64,12341.089999999997,0.16100000613154936
+38-2806168,2019-05-20,France,Smartphones,Kirlin and Sons,Othello Bowes,Amelina Piscopiello,PC,164243.32,134121.1,30122.22,0.1833999702392767
+97-5905883,,UK,Clothing,Konopelski LLC,Jessamine Apark,Genevra Charrisson,PC,152865.34,121130.5,31734.839999999997,0.20759997001282304
+29-3662564,,Ireland,Smartphones,Dibbert Inc,Glenine Suttaby,Palm Wetherald,PC,119819.37,105441.05,14378.319999999992,0.11999996327805756
+38-8840357,2019-12-20,Germany,Electronics,Walter LLC,Rickard Doogood,Casie MacBain,PC,190100.96,160749.37,29351.589999999997,0.15440000934240414
+03-8586261,2019-03-15,Denmark,Games,Tillman and Sons,Modestia Byfford,Cobby Andersen,PC,39287.29,31708.77,7578.52,0.19290004477274966
+80-1894360,2020-08-18,Portugal,Books,"Farrell, Swaniawski and Crist",Celine Tumasian,Brynn Dempster,PC,105340.85,87285.43,18055.420000000013,0.17139998395684117
+35-9605742,2020-10-24,France,Other,Goldner-Dibbert,Othello Bowes,Amelina Piscopiello,PC,57333.85,46308.55,11025.299999999996,0.19230001124989854
+73-6329299,,France,Clothing,Hessel-Stiedemann,Othello Bowes,Crysta Halls,PC,57348.43,47587.73,9760.699999999997,0.17019995141976854
+53-0615558,2019-03-22,UK,Clothing,Hessel-Stiedemann,Jessamine Apark,Jay Morefield,PC,24543.72,19492.62,5051.100000000002,0.20580009876253486
+97-1288901,2019-11-29,Sweden,Appliances,Corwin and Sons,Maxie Marrow,Tarrah Castelletti,PC,30166.93,24658.45,5508.48,0.18259995299488543
+51-0837613,,Portugal,Games,Wyman Group,Celine Tumasian,Brynn Dempster,PC,253580.08,212449.39,41130.68999999997,0.16220000403817197
+53-3803984,2019-03-27,Portugal,Books,"Lind, Mueller and Stoltenberg",Celine Tumasian,Aurelie Wren,Mobile,57115.99,48976.96,8139.029999999999,0.1425000249492305
+65-0414599,2019-01-17,Luxembourg,Appliances,McGlynn-Prosacco,Ilsa Kob,Jocelyn Laurentino,PC,72002.26,56996.99,15005.269999999997,0.20839998633376228
+65-4008552,2019-12-28,Sweden,Clothing,"Jacobson, Marvin and Brown",Maxie Marrow,Tarrah Castelletti,PC,255216.0,211446.46,43769.54000000001,0.17149998432700148
+61-7979087,2019-05-17,Bulgaria,Smartphones,Johns and Sons,Charil Alpe,Shermy McGready,PC,42239.66,37039.96,5199.700000000004,0.12309994919466691
+98-4157323,2020-01-18,Sweden,Games,Tromp LLC,Maxie Marrow,Anita Woakes,PC,139682.07,113212.32,26469.75,0.18949998378460456
+18-1809309,,Netherlands,Games,Hegmann Group,Denice Amberg,Nero Harbisher,Mobile,105678.39,89720.95,15957.440000000002,0.15100002942891164
+58-5376153,2020-05-19,Sweden,Beauty,"Lubowitz, McLaughlin and Erdman",Maxie Marrow,Caro Morfield,PC,85156.7,69479.35,15677.349999999991,0.18410001796687744
+85-2223377,,Austria,Electronics,Smith Group,Orsa Geekin,Bank Coumbe,PC,51090.76,40739.77,10350.990000000005,0.20260003961577405
+46-5327740,,UK,Outdoors,Kihn Inc,Jessamine Apark,Winny Agnolo,PC,308763.51,245714.0,63049.51000000001,0.20420000407431568
+79-1331359,,Netherlands,Games,Hessel-Stiedemann,Denice Amberg,Nero Harbisher,PC,138249.77,120277.3,17972.469999999987,0.1299999992766714
+16-2824654,,Sweden,Clothing,Walter LLC,Maxie Marrow,Tarrah Castelletti,Mobile,42611.78,35755.54,6856.239999999998,0.1609001079044339
+40-5308505,2019-05-26,France,Outdoors,Walter LLC,Othello Bowes,Maighdiln Upcraft,PC,141436.98,114691.25,26745.73000000001,0.18909997936890344
+84-1745028,,Portugal,Beauty,Homenick-Marvin,Celine Tumasian,Corene Shirer,Tablet,41016.31,32985.32,8030.989999999998,0.19579991471685285
+03-3965480,,Portugal,Books,Johns and Sons,Celine Tumasian,Hortense Gerring,PC,144237.38,116111.09,28126.290000000008,0.19500000623971406
+51-5324396,,Sweden,Games,Tillman and Sons,Maxie Marrow,Alyosha Meah,PC,91350.76,75839.4,15511.36,0.16980001042136925
+46-6076582,2020-09-17,Denmark,Books,"Hartmann, Hane and Pfannerstill",Modestia Byfford,Cobby Andersen,PC,31936.44,27708.06,4228.379999999997,0.13239985421042538
+45-5157875,,France,Games,"Christiansen, Donnelly and Bechtelar",Othello Bowes,Avrit Chanders,Tablet,79205.19,65423.49,13781.700000000004,0.1739999613661681
+70-9378988,,France,Outdoors,Romaguera-Dietrich,Othello Bowes,Avrit Chanders,Tablet,111462.88,94130.4,17332.48000000001,0.15550001937864882
+11-8965256,2019-09-15,France,Beauty,"Shanahan, Schaden and Parker",Othello Bowes,Crysta Halls,Tablet,85220.83,73767.15,11453.680000000008,0.13440000525693083
+25-6133000,2019-01-25,Sweden,Clothing,Altenwerth-Konopelski,Maxie Marrow,Madelon Bront,PC,89639.28,77788.97,11850.309999999998,0.13219996858520058
+95-1195568,2020-05-24,Portugal,Outdoors,"Hermiston, Simonis and Wisoky",Celine Tumasian,Hortense Gerring,PC,116556.81,95448.37,21108.440000000002,0.18110001466237796
+85-1464621,,Portugal,Appliances,"Hamill, Kulas and Roob",Celine Tumasian,Brynn Dempster,PC,179184.12,142433.46,36750.66,0.2050999831904747
+24-7985425,2020-05-20,Finland,Clothing,"Murray, Reichel and Nolan",Hube Corey,Mellicent Mattys,PC,55882.12,48561.56,7320.560000000005,0.13100004080017016
+80-4161102,2020-09-27,Spain,Beauty,Johns and Sons,Emalia Dinse,Bertha Walbrook,PC,68288.68,56754.72,11533.959999999992,0.16890002852595765
+73-9246627,2019-08-22,Sweden,Beauty,"Rowe, Hermiston and Kessler",Maxie Marrow,Alyosha Meah,PC,102299.92,81706.95,20592.97,0.20129996191590377
+32-3994860,2020-12-20,France,Smartphones,"Schmitt, Purdy and Johnson",Othello Bowes,Avrit Chanders,PC,264149.91,208757.67,55392.23999999996,0.20970001466212868
+36-3410564,2020-03-23,Netherlands,Smartphones,Friesen-Rath,Denice Amberg,Nero Harbisher,PC,54566.99,43757.27,10809.720000000001,0.19809998682353566
+96-7618409,,Portugal,Accessories,"Schowalter, Lesch and Beahan",Celine Tumasian,Smitty Culverhouse,PC,242192.19,213104.91,29087.28,0.1200999916636453
+42-1879788,2020-01-21,Portugal,Clothing,Altenwerth-Konopelski,Celine Tumasian,Aurelie Wren,Mobile,74364.46,60145.98,14218.480000000003,0.1911999360985073
+88-7664123,2020-05-28,Portugal,Electronics,"Zieme, Bailey and Herzog",Celine Tumasian,Corene Shirer,PC,164117.24,133509.37,30607.869999999995,0.18650002888179204
+35-1705563,2019-04-26,Sweden,Appliances,Labadie and Sons,Maxie Marrow,Madelon Bront,PC,40831.52,34192.31,6639.209999999999,0.16260011873180327
+15-8765160,2019-12-22,Spain,Games,Johns and Sons,Emalia Dinse,Bertha Walbrook,Tablet,178763.42,146621.76,32141.660000000003,0.17979998368793795
+39-5953116,,Bulgaria,Smartphones,Smith Group,Charil Alpe,Shermy McGready,PC,152231.86,122303.08,29928.779999999984,0.19659997585262368
+75-7848944,,UK,Outdoors,Stamm-Zulauf,Jessamine Apark,Genevra Charrisson,PC,96358.45,80700.2,15658.25,0.16250001945859446
+02-6830973,2019-09-27,France,Appliances,"Schowalter, Lesch and Beahan",Othello Bowes,Crysta Halls,PC,116328.75,93365.45,22963.300000000003,0.19740004083255433
+95-4281933,,Portugal,Clothing,Johns and Sons,Celine Tumasian,Hortense Gerring,PC,79288.03,68536.57,10751.459999999992,0.13560003950154886
+23-3084772,,UK,Games,Armstrong-Little,Jessamine Apark,Genevra Charrisson,PC,50374.22,44047.22,6327.0,0.12559995966190643
+17-4401585,2019-01-17,Ireland,Games,Tillman and Sons,Glenine Suttaby,Palm Wetherald,PC,135344.52,117492.58,17851.939999999988,0.13189998383384854
+97-6414953,,Portugal,Electronics,"Dickinson, Hyatt and Berge",Celine Tumasian,Hortense Gerring,Mobile,112481.44,96700.29,15781.150000000009,0.1403000352769311
+75-5380350,2019-06-25,Finland,Beauty,"Hamill, Kulas and Roob",Hube Corey,Wat Bowkley,PC,41675.01,33765.09,7909.9200000000055,0.18980007443309563
+03-5073152,2019-05-19,France,Electronics,Hessel-Stiedemann,Othello Bowes,Maighdiln Upcraft,PC,173418.59,140746.53,32672.059999999998,0.1883999864143746
+94-0623186,2019-07-27,UK,Appliances,Johns and Sons,Jessamine Apark,Genevra Charrisson,PC,146076.81,123230.4,22846.410000000003,0.1563999788878194
+66-5810051,2019-10-22,Sweden,Books,"Zieme, Bailey and Herzog",Maxie Marrow,Anita Woakes,PC,179179.73,154936.71,24243.02000000002,0.13530001412548182
+34-8443139,2020-06-13,Portugal,Beauty,Johns and Sons,Celine Tumasian,Hortense Gerring,Mobile,126021.1,101762.04,24259.060000000012,0.19249998611343666
+89-0300778,2020-11-28,France,Electronics,Romaguera-Dietrich,Othello Bowes,Amelina Piscopiello,PC,33013.08,26743.9,6269.18,0.1898998821073344
+48-3484986,,Sweden,Clothing,Johns and Sons,Maxie Marrow,Madelon Bront,PC,156453.01,128494.86,27958.15000000001,0.17869998154717515
+03-0455038,2020-10-22,Portugal,Electronics,Franecki-White,Celine Tumasian,Aurelie Wren,PC,165696.9,132275.84,33421.06,0.20169997145390167
+80-5258827,,France,Outdoors,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,Mobile,274242.36,227950.25,46292.109999999986,0.1687999986581212
+50-0376562,2019-10-19,Sweden,Appliances,"Zieme, Bailey and Herzog",Maxie Marrow,Madelon Bront,Tablet,97063.22,78067.95,18995.270000000004,0.195699977808278
+84-2614836,,Sweden,Clothing,Wiza and Sons,Maxie Marrow,Caro Morfield,Mobile,174919.64,146845.04,28074.600000000006,0.16049998730845777
+53-3568171,2019-07-31,Portugal,Outdoors,"Bashirian, Okuneva and Bechtelar",Celine Tumasian,Aurelie Wren,Mobile,77522.57,64227.45,13295.12000000001,0.1714999902609009
+63-6767584,,Portugal,Appliances,Johns and Sons,Celine Tumasian,Corene Shirer,PC,55790.71,48783.4,7007.309999999998,0.1255999430729596
+43-7205800,2020-04-30,Ireland,Games,"Swaniawski, Runolfsson and Green",Glenine Suttaby,Palm Wetherald,Mobile,127591.73,108988.86,18602.869999999995,0.14579996681603108
+72-9074281,,Portugal,Clothing,Corwin and Sons,Celine Tumasian,Aurelie Wren,PC,101846.87,88066.99,13779.87999999999,0.13529998516400152
+60-8661261,2019-04-21,France,Beauty,"Lubowitz, McLaughlin and Erdman",Othello Bowes,Maighdiln Upcraft,PC,118021.59,98229.37,19792.22,0.1676999945518443
+38-8230515,2019-09-25,UK,Electronics,Labadie and Sons,Jessamine Apark,Genevra Charrisson,PC,66613.31,55462.24,11151.07,0.16740002861290035
+84-0565956,2019-03-29,UK,Games,Marquardt-Kuvalis,Jessamine Apark,Genevra Charrisson,PC,91842.59,73979.21,17863.37999999999,0.19449995911482887
+53-4511393,,France,Appliances,Altenwerth-Konopelski,Othello Bowes,Crysta Halls,PC,108158.8,89328.35,18830.449999999997,0.17410002699734092
+09-3959499,,Portugal,Clothing,Hegmann Group,Celine Tumasian,Smitty Culverhouse,Mobile,38982.26,32854.25,6128.010000000002,0.15719996736977285
+33-2816759,2019-07-28,Portugal,Books,McClure Inc,Celine Tumasian,Corene Shirer,PC,181882.43,149834.75,32047.679999999993,0.17619997709509377
+98-9382686,,Spain,Smartphones,McClure Inc,Emalia Dinse,Perri Aldersley,Mobile,59163.79,50419.38,8744.410000000003,0.14780003106629921
+21-2097342,2019-09-30,France,Accessories,Schoen-Keeling,Othello Bowes,Avrit Chanders,Mobile,94925.0,77572.71,17352.289999999994,0.18279999999999993
+01-6573793,2020-05-24,Sweden,Beauty,McGlynn-Prosacco,Maxie Marrow,Tarrah Castelletti,PC,79088.7,67415.21,11673.48999999999,0.14759997319465348
+51-9052860,,France,Appliances,Hilll-Vandervort,Othello Bowes,Crysta Halls,PC,164267.72,139069.05,25198.670000000013,0.1534000106655161
+18-3315246,2019-07-22,France,Beauty,Stehr LLC,Othello Bowes,Maighdiln Upcraft,PC,156110.4,132584.56,23525.839999999997,0.1507000174235669
+86-7866497,2020-01-27,UK,Electronics,Romaguera-Dietrich,Jessamine Apark,Winny Agnolo,PC,80013.81,65587.32,14426.48999999999,0.18030000071237692
+79-4826735,,Sweden,Beauty,Johns and Sons,Maxie Marrow,Madelon Bront,PC,57347.48,50041.41,7306.07,0.1274000182745606
+29-5158368,,Portugal,Books,"Dickinson, Hyatt and Berge",Celine Tumasian,Corene Shirer,PC,99518.86,81854.26,17664.600000000006,0.1775000236136146
+30-8215510,,Netherlands,Smartphones,"Swaniawski, Runolfsson and Green",Denice Amberg,Nero Harbisher,Mobile,104152.15,85696.39,18455.759999999995,0.17719999059068867
+99-3651863,,Portugal,Accessories,Romaguera-Haley,Celine Tumasian,Brynn Dempster,PC,172505.24,139125.48,33379.75999999998,0.193499977160114
+29-6521179,2020-07-14,Portugal,Smartphones,Labadie and Sons,Celine Tumasian,Smitty Culverhouse,PC,48763.58,39435.11,9328.470000000001,0.19129994147271387
+30-0037690,,Portugal,Smartphones,"Schowalter, Lesch and Beahan",Celine Tumasian,Aurelie Wren,PC,65760.39,56672.3,9088.089999999997,0.1382000623779755
+98-5774102,2020-06-19,Netherlands,Electronics,Wiza and Sons,Denice Amberg,Nero Harbisher,PC,200472.46,170181.07,30291.389999999985,0.15110000645475188
+66-6360568,2019-11-13,UK,Electronics,Gislason-Stanton,Jessamine Apark,Genevra Charrisson,Tablet,86071.63,71198.45,14873.180000000008,0.17280002714018552
+71-3278650,2019-05-25,Sweden,Smartphones,Johns and Sons,Maxie Marrow,Caro Morfield,PC,53957.42,46905.19,7052.229999999996,0.13069991115216398
+42-8394841,2020-07-27,Finland,Games,Hegmann Group,Hube Corey,Wat Bowkley,Tablet,235608.66,201468.96,34139.70000000001,0.144900021926189
+55-6785409,2020-07-31,Finland,Electronics,Johns and Sons,Hube Corey,Mellicent Mattys,PC,52388.85,45641.17,6747.68,0.1287999259384392
+85-9541179,,Sweden,Books,Hegmann Group,Maxie Marrow,Tarrah Castelletti,PC,133055.04,105366.29,27688.750000000015,0.208099971260014
+28-6038070,2019-03-14,Portugal,Books,"Farrell, Swaniawski and Crist",Celine Tumasian,Corene Shirer,PC,52227.07,45124.19,7102.879999999997,0.13599997089631866
+45-2229786,2020-07-18,France,Books,"Dickinson, Hyatt and Berge",Othello Bowes,Maighdiln Upcraft,PC,124534.96,107012.89,17522.070000000007,0.14070000905769758
+09-7737652,2019-09-18,France,Clothing,Tillman and Sons,Othello Bowes,Amelina Piscopiello,Mobile,174951.18,142690.18,32261.0,0.18440001376383972
+50-0521963,,Portugal,Electronics,Johns and Sons,Celine Tumasian,Smitty Culverhouse,PC,76943.74,62870.73,14073.010000000002,0.18289999940216062
+36-8783637,,France,Games,"Murray, Reichel and Nolan",Othello Bowes,Avrit Chanders,PC,81095.39,64316.75,16778.64,0.20690004696937767
+81-0573181,2020-07-15,Sweden,Smartphones,Armstrong-Little,Maxie Marrow,Tarrah Castelletti,PC,40385.45,32591.06,7794.389999999996,0.19299995419142282
+00-2549549,,Portugal,Clothing,Johns and Sons,Celine Tumasian,Smitty Culverhouse,PC,161544.06,132579.21,28964.850000000006,0.17930000025999102
+59-0348389,2019-01-21,Ireland,Electronics,Johns and Sons,Glenine Suttaby,Palm Wetherald,PC,37892.58,30010.92,7881.6600000000035,0.20800008867171366
+55-1050582,,France,Clothing,Considine-Fisher,Othello Bowes,Crysta Halls,PC,78540.62,63987.04,14553.579999999994,0.18530003964827366
+34-5150360,,Luxembourg,Clothing,Johns and Sons,Ilsa Kob,Jocelyn Laurentino,PC,82525.61,68446.74,14078.869999999995,0.17060001131769878
+80-7090422,2019-11-30,Portugal,Electronics,Connelly-Mohr,Celine Tumasian,Hortense Gerring,PC,86083.27,72309.95,13773.320000000007,0.15999996282669102
+54-2767741,,Portugal,Games,Labadie and Sons,Celine Tumasian,Brynn Dempster,PC,97439.36,79773.6,17665.759999999995,0.18130004137958208
+34-0783331,,France,Other,"Rowe, Hermiston and Kessler",Othello Bowes,Maighdiln Upcraft,PC,70657.26,61330.5,9326.759999999995,0.13200002377674985
+49-7876403,2020-05-27,Portugal,Games,Romaguera-Haley,Celine Tumasian,Aurelie Wren,PC,155766.23,131529.0,24237.23000000001,0.15560002960847166
+19-9073616,2020-10-19,Germany,Outdoors,"Murray, Reichel and Nolan",Rickard Doogood,Casie MacBain,Tablet,48922.42,39387.44,9534.979999999996,0.19490000699065982
+72-3928347,2019-08-31,Ireland,Beauty,Friesen-Rath,Glenine Suttaby,Bunnie Tonbridge,PC,157007.52,126940.58,30066.939999999988,0.1914999994904702
+42-7027181,2019-09-22,Portugal,Beauty,Romaguera-Haley,Celine Tumasian,Hortense Gerring,Mobile,40728.28,35669.83,5058.449999999997,0.12419994166215703
+04-6161825,,Portugal,Electronics,Johns and Sons,Celine Tumasian,Aurelie Wren,PC,152442.32,122258.74,30183.58,0.19800000419830924
+40-8287610,2019-11-27,Bulgaria,Beauty,"Jacobson, Marvin and Brown",Charil Alpe,Bernadine Fullagar,PC,158011.3,137390.83,20620.47,0.13049997057172494
+60-8083173,2020-10-28,Finland,Games,Hilll-Vandervort,Hube Corey,Mellicent Mattys,PC,65211.07,56883.62,8327.449999999997,0.12769994419659111
+68-1806238,,Spain,Beauty,Wiza and Sons,Emalia Dinse,Perri Aldersley,PC,42814.57,35356.27,7458.300000000003,0.17420004451755566
+73-4380400,,Italy,Games,"Bashirian, Okuneva and Bechtelar",Piggy Roscrigg,Joshua Prevost,PC,118409.59,96030.18,22379.410000000003,0.18899997880239264
+49-8489293,,Sweden,Appliances,Altenwerth-Konopelski,Maxie Marrow,Madelon Bront,PC,33617.03,26614.6,7002.43,0.2083000788588403
+64-4923214,2020-12-22,Finland,Beauty,Tromp LLC,Hube Corey,Wat Bowkley,PC,205582.75,166748.17,38834.57999999999,0.18889999282527345
+32-5562588,2019-07-22,France,Beauty,Hessel-Stiedemann,Othello Bowes,Crysta Halls,PC,80431.34,69774.19,10657.149999999994,0.1324999682959403
+35-4712641,2019-10-14,Portugal,Outdoors,Wisoky Inc,Celine Tumasian,Corene Shirer,Mobile,75912.59,60145.55,15767.039999999994,0.20769993488563615
+15-5167065,2019-12-20,Sweden,Clothing,Konopelski LLC,Maxie Marrow,Tarrah Castelletti,Tablet,145558.0,116257.18,29300.820000000007,0.20129996290138644
+32-2110689,,Portugal,Appliances,"Shanahan, Schaden and Parker",Celine Tumasian,Aurelie Wren,PC,59670.68,51269.05,8401.629999999997,0.14079997077291556
+94-8641337,2019-04-19,Portugal,Games,Johns and Sons,Celine Tumasian,Aurelie Wren,Tablet,89830.34,76795.96,13034.37999999999,0.145099974017687
+24-6905998,2020-10-22,Sweden,Electronics,"Leffler, Prohaska and Streich",Maxie Marrow,Anita Woakes,PC,103638.67,84030.23,19608.440000000002,0.18920003508342978
+82-2837449,,Portugal,Clothing,"Spencer, Rogahn and Muller",Celine Tumasian,Corene Shirer,PC,123424.43,98171.79,25252.64,0.20460001314164467
+46-4560578,,France,Clothing,McClure Inc,Othello Bowes,Crysta Halls,PC,86050.61,75569.65,10480.960000000006,0.12179995005264932
+19-5610175,2019-08-20,France,Beauty,Johns and Sons,Othello Bowes,Ora Grennan,PC,119156.18,100710.8,18445.37999999999,0.15480002799686923
+81-9170157,,Netherlands,Electronics,Smith Group,Denice Amberg,Nero Harbisher,PC,99731.4,84731.8,14999.599999999991,0.15039997433105312
+53-1326953,2019-02-17,Portugal,Games,Dibbert Inc,Celine Tumasian,Brynn Dempster,PC,101321.52,86710.96,14610.559999999998,0.1441999685752839
+75-6038587,2020-02-18,Portugal,Clothing,Johns and Sons,Celine Tumasian,Corene Shirer,PC,53485.0,46713.8,6771.199999999997,0.12659998130316905
+94-8026718,,Finland,Clothing,Larkin-Collier,Hube Corey,Wat Bowkley,PC,200635.57,172245.64,28389.929999999993,0.14149998427497174
+09-3668672,,UK,Clothing,Hegmann Group,Jessamine Apark,Winny Agnolo,PC,242526.0,212113.24,30412.76000000001,0.12539999835069235
+90-2797129,,Sweden,Games,"Murray, Reichel and Nolan",Maxie Marrow,Alyosha Meah,PC,57913.36,48693.55,9219.809999999998,0.15920005332102985
+57-4142025,2019-12-23,Sweden,Games,Altenwerth-Konopelski,Maxie Marrow,Caro Morfield,Mobile,325331.99,264592.51,60739.47999999998,0.18669999221410713
+88-8981595,,France,Electronics,Hane Inc,Othello Bowes,Amelina Piscopiello,PC,40148.49,31954.18,8194.309999999998,0.2041000794799505
+35-0548738,2020-10-27,UK,Smartphones,"Murray, Reichel and Nolan",Jessamine Apark,Genevra Charrisson,PC,59043.39,48876.12,10167.269999999997,0.1721999702252868
+96-5143420,,Sweden,Other,Hessel-Stiedemann,Maxie Marrow,Alyosha Meah,PC,72757.01,63378.63,9378.379999999997,0.1289000193933203
+85-8092784,,UK,Games,"Keeling, Monahan and Pollich",Jessamine Apark,Genevra Charrisson,PC,74295.81,63716.09,10579.720000000001,0.14239995499073232
+47-8186791,2019-01-27,Luxembourg,Clothing,Johns and Sons,Ilsa Kob,Jocelyn Laurentino,PC,172397.66,139986.9,32410.76000000001,0.18799999953595664
+80-5941460,2020-04-14,Portugal,Clothing,Dibbert Inc,Celine Tumasian,Hortense Gerring,PC,137562.42,112140.88,25421.540000000008,0.18480003477693985
+67-3672347,,France,Appliances,"Dickinson, Hyatt and Berge",Othello Bowes,Maighdiln Upcraft,PC,109562.5,89917.94,19644.559999999998,0.17930003422703933
+92-5154775,,UK,Books,Romaguera-Haley,Jessamine Apark,Winny Agnolo,PC,73727.91,64047.44,9680.470000000001,0.13129993783900834
+61-8262308,2019-11-20,Belgium,Games,"Swaniawski, Runolfsson and Green",Lambert Norheny,Collin Mackness,PC,152370.57,128478.86,23891.710000000006,0.15680003034706771
+34-4313860,,France,Smartphones,Labadie and Sons,Othello Bowes,Ora Grennan,PC,174392.33,141449.62,32942.70999999999,0.18889999348021783
+44-9239029,,Ireland,Electronics,Corwin and Sons,Glenine Suttaby,Bunnie Tonbridge,Mobile,271465.15,217959.37,53505.78000000003,0.19709999607684459
+61-0532585,2020-02-15,France,Books,Hessel-Stiedemann,Othello Bowes,Crysta Halls,PC,111557.68,92470.16,19087.51999999999,0.17110000853370194
+16-9079414,,Portugal,Books,"Lubowitz, McLaughlin and Erdman",Celine Tumasian,Corene Shirer,Mobile,87513.27,72469.74,15043.529999999999,0.17189998728192876
+20-3384992,,France,Electronics,"Spencer, Rogahn and Muller",Othello Bowes,Amelina Piscopiello,PC,107586.21,94525.24,13060.970000000001,0.1214000381647425
+45-5963143,2020-03-19,France,Smartphones,"Rowe, Hermiston and Kessler",Othello Bowes,Maighdiln Upcraft,PC,34771.79,28509.39,6262.4000000000015,0.18010001785930496
+34-9966345,2020-05-16,Sweden,Appliances,West-Cummings,Maxie Marrow,Tarrah Castelletti,PC,168530.22,136981.36,31548.860000000015,0.18720001670916953
+15-2948501,2020-06-23,UK,Smartphones,Labadie and Sons,Jessamine Apark,Genevra Charrisson,PC,166380.74,146049.01,20331.72999999998,0.12220002146883097
+61-7521706,,Portugal,Clothing,Romaguera-Haley,Celine Tumasian,Aurelie Wren,Mobile,170408.23,143432.61,26975.620000000024,0.15829998351605448
+99-9021526,2020-07-25,UK,Beauty,"Dickinson, Hyatt and Berge",Jessamine Apark,Jay Morefield,Tablet,92179.76,74794.66,17385.09999999999,0.18859997031886383
+71-4782689,2019-06-16,Sweden,Games,"Hermiston, Simonis and Wisoky",Maxie Marrow,Caro Morfield,Tablet,204484.61,177308.61,27176.0,0.13289997716698582
+61-4610981,,Finland,Games,McClure Inc,Hube Corey,Wat Bowkley,PC,27824.83,23517.55,4307.2800000000025,0.15479986760026934
+42-5303223,,Portugal,Books,Johns and Sons,Celine Tumasian,Hortense Gerring,Mobile,194326.7,169005.93,25320.77000000002,0.13030000509451362
+60-6055725,2019-06-17,Portugal,Other,Walter LLC,Celine Tumasian,Hortense Gerring,PC,59691.71,49239.69,10452.019999999997,0.1751000264525844
+44-2994974,,UK,Appliances,Tromp LLC,Jessamine Apark,Jay Morefield,Mobile,256388.08,212058.58,44329.5,0.17290000377552656
+98-5721101,2020-04-28,Portugal,Clothing,"Hamill, Kulas and Roob",Celine Tumasian,Brynn Dempster,PC,84598.68,72391.09,12207.589999999997,0.1443000056265653
+34-6603897,2019-04-15,France,Games,"Keeling, Monahan and Pollich",Othello Bowes,Amelina Piscopiello,PC,116206.87,93104.94,23101.929999999993,0.19880003652107653
+99-7842298,,Portugal,Beauty,Gislason-Stanton,Celine Tumasian,Brynn Dempster,Mobile,74231.25,61604.51,12626.739999999998,0.1701000589374421
+45-3965395,2020-09-23,Bulgaria,Games,"Hermiston, Simonis and Wisoky",Charil Alpe,Bernadine Fullagar,PC,80328.16,65836.96,14491.199999999997,0.18039999920326816
+24-7300640,,France,Electronics,"Zieme, Bailey and Herzog",Othello Bowes,Amelina Piscopiello,PC,32661.62,27922.42,4739.200000000001,0.14509996748477266
+58-7865136,2019-09-15,France,Beauty,"Hamill, Kulas and Roob",Othello Bowes,Maighdiln Upcraft,PC,85223.07,73002.08,12220.990000000005,0.14340002067515292
+98-3280428,2020-10-20,Sweden,Beauty,Morissette Group,Maxie Marrow,Anita Woakes,PC,39457.34,32793.0,6664.3399999999965,0.16889988022507338
+86-9456489,2020-08-27,Portugal,Outdoors,West-Cummings,Celine Tumasian,Smitty Culverhouse,PC,87085.71,76548.34,10537.37000000001,0.12099998955052453
+70-7426559,2020-12-30,Ireland,Smartphones,Johns and Sons,Glenine Suttaby,Palm Wetherald,PC,130242.41,113050.41,17192.0,0.13200001443462234
+82-2840501,2020-06-19,Portugal,Beauty,Corwin and Sons,Celine Tumasian,Corene Shirer,PC,74790.02,64992.53,9797.490000000005,0.13099996496858812
+24-4511396,2020-11-14,Portugal,Outdoors,"Farrell, Swaniawski and Crist",Celine Tumasian,Smitty Culverhouse,PC,79874.42,68132.88,11741.539999999994,0.14700000325510962
+84-0460695,2020-03-20,France,Appliances,"Murray, Reichel and Nolan",Othello Bowes,Avrit Chanders,PC,19814.86,16787.15,3027.709999999999,0.15279996931595777
+09-3404706,,UK,Appliances,Larkin-Collier,Jessamine Apark,Genevra Charrisson,PC,203958.16,176444.2,27513.959999999992,0.13490002067090617
+75-3776704,,Denmark,Clothing,"Keeling, Monahan and Pollich",Modestia Byfford,Case Desorts,PC,65822.05,54790.27,11031.780000000006,0.1676000671507497
+47-5051773,2020-05-16,France,Appliances,Stehr LLC,Othello Bowes,Maighdiln Upcraft,PC,58416.11,48076.46,10339.650000000001,0.17699997483570887
+56-2783503,2020-04-25,Portugal,Appliances,Schoen-Keeling,Celine Tumasian,Corene Shirer,PC,59378.97,52176.3,7202.669999999998,0.12130001581367945
+78-7812852,2020-01-21,Sweden,Books,Tromp LLC,Maxie Marrow,Caro Morfield,Mobile,73773.6,58421.31,15352.290000000008,0.20810005205114035
+87-9980890,,Sweden,Other,McGlynn-Bergstrom,Maxie Marrow,Alyosha Meah,PC,44029.07,38344.92,5684.1500000000015,0.12909993329407143
+17-3240628,2019-09-22,France,Appliances,Dibbert Inc,Othello Bowes,Amelina Piscopiello,PC,51504.5,44592.6,6911.9000000000015,0.13419992427846114
+24-2679038,,France,Games,"Dickinson, Hyatt and Berge",Othello Bowes,Ora Grennan,PC,56068.7,47378.05,8690.649999999994,0.15500002675289412
+51-2167412,2020-06-20,Portugal,Electronics,Walter LLC,Celine Tumasian,Corene Shirer,PC,129022.02,104585.25,24436.770000000004,0.1893999954426384
+76-2146784,2019-11-18,UK,Smartphones,Johns and Sons,Jessamine Apark,Jay Morefield,PC,123751.91,102590.33,21161.58,0.1710000273935166
+99-0564964,2019-09-13,Germany,Appliances,Johns and Sons,Rickard Doogood,Casie MacBain,PC,153011.39,131543.89,21467.5,0.1403000129598195
+67-7432229,2020-02-20,Italy,Books,Johns and Sons,Piggy Roscrigg,Joshua Prevost,Tablet,44232.84,38880.67,5352.169999999998,0.12099991770820048
+15-0224516,2020-04-15,Portugal,Smartphones,"Spencer, Rogahn and Muller",Celine Tumasian,Aurelie Wren,PC,51416.24,43338.75,8077.489999999998,0.15709997463836325
+92-3687989,2019-02-21,France,Appliances,Johns and Sons,Othello Bowes,Amelina Piscopiello,Mobile,78629.19,63359.4,15269.79,0.194200016558736
+59-5568557,,Portugal,Clothing,Hessel-Stiedemann,Celine Tumasian,Hortense Gerring,PC,95566.43,80342.7,15223.729999999996,0.15929997594343534
+99-5465830,2019-01-20,UK,Clothing,"Christiansen, Donnelly and Bechtelar",Jessamine Apark,Genevra Charrisson,Tablet,123272.44,101576.49,21695.949999999997,0.17600000454278342
+84-9385946,2020-09-27,UK,Smartphones,Wiza and Sons,Jessamine Apark,Genevra Charrisson,Tablet,34748.75,27475.84,7272.91,0.2092999028742041
+82-1337530,,Denmark,Books,"Lubowitz, McLaughlin and Erdman",Modestia Byfford,Cobby Andersen,PC,109892.92,89441.85,20451.069999999992,0.1860999780513612
+71-0122842,,Sweden,Outdoors,Johns and Sons,Maxie Marrow,Alyosha Meah,Tablet,177993.88,145029.41,32964.47,0.18520001923661644
+81-5976459,,Portugal,Appliances,Gislason-Stanton,Celine Tumasian,Hortense Gerring,PC,243176.92,202250.24,40926.68000000002,0.16830001794578212
+21-2965409,2020-08-24,Ireland,Appliances,Johns and Sons,Glenine Suttaby,Palm Wetherald,PC,31966.82,26593.2,5373.619999999999,0.16809992360829132
+75-6638402,,Sweden,Beauty,Armstrong-Little,Maxie Marrow,Anita Woakes,PC,64053.77,54733.95,9319.82,0.14549994481199155
+81-9757849,2019-01-19,Germany,Accessories,Johns and Sons,Rickard Doogood,Casie MacBain,PC,36747.24,31900.28,4846.959999999999,0.13189997398444073
+03-3136289,,Sweden,Clothing,Johns and Sons,Maxie Marrow,Anita Woakes,PC,116548.17,92119.67,24428.5,0.2096000306139513
+20-0021649,,Bulgaria,Accessories,Wyman Group,Charil Alpe,Bernadine Fullagar,PC,98963.03,80367.88,18595.149999999994,0.18789996628033714
+32-9007470,,Ireland,Smartphones,Dibbert Inc,Glenine Suttaby,Bunnie Tonbridge,PC,126409.18,104692.08,21717.09999999999,0.17180002275151213
+63-0694419,2019-09-24,UK,Clothing,Hilll-Vandervort,Jessamine Apark,Winny Agnolo,PC,124537.47,105881.76,18655.710000000006,0.1497999758626862
+75-7245546,,UK,Games,Stamm Inc,Jessamine Apark,Genevra Charrisson,PC,159052.7,127926.09,31126.610000000015,0.1956999786863097
+98-9112505,2020-05-20,Denmark,Clothing,Wisoky Inc,Modestia Byfford,Case Desorts,PC,58948.52,49416.54,9531.979999999996,0.16170007321642674
+78-8602908,2020-03-16,Italy,Appliances,West-Cummings,Piggy Roscrigg,Joshua Prevost,Mobile,37636.91,30847.21,6789.700000000004,0.1804000381540356
+63-6848448,2020-12-20,Bulgaria,Electronics,"Abbott, Roberts and Torp",Charil Alpe,Shermy McGready,Mobile,149372.32,130611.16,18761.160000000003,0.1255999772916428
+56-7081196,2020-09-19,UK,Outdoors,Johns and Sons,Jessamine Apark,Genevra Charrisson,PC,124234.91,98244.97,25989.940000000002,0.2091999744677241
+00-3338378,,Portugal,Beauty,"Schowalter, Lesch and Beahan",Celine Tumasian,Brynn Dempster,PC,120453.52,97218.04,23235.48000000001,0.19289996672575455
+05-2359767,2019-09-21,Portugal,Books,"Farrell, Swaniawski and Crist",Celine Tumasian,Hortense Gerring,PC,50796.04,44090.96,6705.080000000002,0.1320000535474813
+28-6585323,2019-09-26,Finland,Games,Hilll-Vandervort,Hube Corey,Wat Bowkley,Mobile,116563.4,92807.78,23755.619999999995,0.20379999210729952
+01-6107437,2020-03-28,France,Games,Wisoky Inc,Othello Bowes,Avrit Chanders,PC,19366.75,15857.49,3509.26,0.18120025301095952
+03-7559332,2019-04-24,France,Books,Johns and Sons,Othello Bowes,Ora Grennan,PC,96613.06,79242.03,17371.03,0.17980001875522833
+58-7703341,,Portugal,Clothing,Larkin-Collier,Celine Tumasian,Smitty Culverhouse,PC,296465.56,257480.34,38985.22,0.13149999615469668
+18-8528486,,Finland,Electronics,"Murray, Reichel and Nolan",Hube Corey,Wat Bowkley,PC,35619.28,28192.66,7426.619999999999,0.20850000336896196
+48-3190394,2019-01-15,France,Clothing,Kihn Inc,Othello Bowes,Amelina Piscopiello,PC,133985.91,116741.92,17243.990000000005,0.1287000252489236
+10-0386535,2020-11-19,Netherlands,Electronics,McGlynn-Prosacco,Denice Amberg,Nero Harbisher,PC,119858.15,99997.65,19860.5,0.1657000379198244
+14-4225824,2019-01-25,Portugal,Electronics,Stamm-Zulauf,Celine Tumasian,Brynn Dempster,PC,85390.17,74400.46,10989.709999999992,0.1286999428622755
+86-0928074,2020-09-19,Bulgaria,Electronics,Wiza and Sons,Charil Alpe,Shermy McGready,PC,124611.61,107776.58,16835.03,0.13510001194912735
+59-9184649,,Finland,Appliances,Romaguera-Dietrich,Hube Corey,Mellicent Mattys,PC,161984.91,138237.92,23746.98999999999,0.14660001354447147
+39-5658730,,Belgium,Clothing,"Hermiston, Simonis and Wisoky",Lambert Norheny,Collin Mackness,Mobile,76183.74,61617.41,14566.330000000002,0.19119998571873736
+75-9585763,2019-09-15,Sweden,Outdoors,Gislason-Stanton,Maxie Marrow,Madelon Bront,PC,112228.82,97470.73,14758.090000000011,0.13150000151476252
+63-0813030,,Portugal,Clothing,Johns and Sons,Celine Tumasian,Hortense Gerring,PC,97291.62,76899.3,20392.319999999992,0.20959996349120297
+80-8019337,,Sweden,Beauty,Johns and Sons,Maxie Marrow,Anita Woakes,PC,131402.37,106383.36,25019.009999999995,0.19039999050245437
+92-4106004,2019-05-24,UK,Clothing,Johns and Sons,Jessamine Apark,Jay Morefield,PC,173258.94,143198.51,30060.429999999993,0.173500022567378
+47-9920494,,Portugal,Clothing,Armstrong-Little,Celine Tumasian,Brynn Dempster,PC,72857.41,60442.51,12414.900000000001,0.1703999634354282
+29-8979189,,UK,Clothing,Johns and Sons,Jessamine Apark,Winny Agnolo,PC,99114.91,84217.94,14896.970000000001,0.15029999018311171
+70-7107956,,Portugal,Smartphones,"Hermiston, Simonis and Wisoky",Celine Tumasian,Hortense Gerring,Tablet,102495.13,85009.46,17485.67,0.17060000801989322
+82-2972108,2019-06-16,France,Appliances,Considine-Fisher,Othello Bowes,Amelina Piscopiello,PC,119820.82,98289.02,21531.800000000003,0.1796999886997936
+54-5107115,2019-05-26,France,Clothing,Stehr LLC,Othello Bowes,Ora Grennan,PC,66141.13,53435.42,12705.710000000006,0.19209998377711426
+26-1771681,2020-12-24,Sweden,Books,Walter LLC,Maxie Marrow,Madelon Bront,PC,149938.71,131541.23,18397.47999999998,0.12270000188743775
+87-0122224,2019-10-15,Sweden,Electronics,Armstrong-Little,Maxie Marrow,Anita Woakes,PC,124093.76,105231.51,18862.25,0.15199998775119716
+63-5897834,,France,Electronics,Schoen-Keeling,Othello Bowes,Ora Grennan,Mobile,98915.41,85176.06,13739.350000000006,0.138899995460768
+46-5576111,2020-04-25,France,Books,Stehr LLC,Othello Bowes,Maighdiln Upcraft,PC,141948.11,112948.11,28999.999999999985,0.2043000079395209
+94-3509391,2020-04-14,France,Beauty,Johns and Sons,Othello Bowes,Maighdiln Upcraft,PC,162123.74,133979.06,28144.679999999993,0.17359999220348601
+77-6124790,,Germany,Electronics,Romaguera-Dietrich,Rickard Doogood,Casie MacBain,Mobile,44118.5,38250.74,5867.760000000002,0.1329999886668858
+45-8314773,2020-03-18,Netherlands,Smartphones,Armstrong-Little,Denice Amberg,Nero Harbisher,PC,85237.91,72384.03,12853.880000000005,0.15080003721348875
+50-1695443,2019-05-30,France,Other,Considine-Fisher,Othello Bowes,Amelina Piscopiello,PC,65036.81,52361.14,12675.669999999998,0.1948999343602492
+68-6382353,,Portugal,Electronics,"Rowe, Hermiston and Kessler",Celine Tumasian,Smitty Culverhouse,PC,49990.72,42927.03,7063.690000000002,0.14130002528469288
+34-8903845,2019-07-28,Portugal,Electronics,"Hartmann, Hane and Pfannerstill",Celine Tumasian,Aurelie Wren,PC,47186.74,38112.73,9074.009999999995,0.19229999783837567
+10-5899580,2020-04-14,Portugal,Electronics,Romaguera-Dietrich,Celine Tumasian,Corene Shirer,PC,148037.71,117867.62,30170.089999999997,0.20380003176217734
+39-1945268,2020-05-15,Portugal,Games,Hane Inc,Celine Tumasian,Smitty Culverhouse,Mobile,137419.3,117658.4,19760.899999999994,0.14380003391081161
+30-6005742,,Sweden,Smartphones,Walter LLC,Maxie Marrow,Anita Woakes,PC,177867.3,140675.25,37192.04999999999,0.20909998633812957
+49-9010863,2020-03-13,Portugal,Electronics,Romaguera-Dietrich,Celine Tumasian,Brynn Dempster,Mobile,25834.34,22450.04,3384.2999999999993,0.1310000565139268
+58-2235320,,Spain,Electronics,"Murray, Reichel and Nolan",Emalia Dinse,Bertha Walbrook,PC,127143.54,105033.28,22110.259999999995,0.17389998736860712
+49-1743669,2020-08-27,Sweden,Accessories,Labadie and Sons,Maxie Marrow,Madelon Bront,PC,166507.76,143896.01,22611.75,0.135799977130195
+03-6962760,2020-11-15,Finland,Games,Wunsch LLC,Hube Corey,Mellicent Mattys,PC,125851.79,103777.39,22074.399999999994,0.1753999684867414
+42-2477150,,Ireland,Clothing,Johns and Sons,Glenine Suttaby,Palm Wetherald,PC,117288.29,94546.09,22742.199999999997,0.1939000048512942
+82-9740062,2020-05-30,UK,Books,Altenwerth-Konopelski,Jessamine Apark,Winny Agnolo,PC,121246.32,104005.09,17241.23000000001,0.14220002718433028
+13-4700827,,Netherlands,Games,McGlynn-Prosacco,Denice Amberg,Nero Harbisher,PC,28787.17,24610.15,4177.019999999997,0.14510005672665974
+20-9472915,2019-03-23,France,Games,Johns and Sons,Othello Bowes,Ora Grennan,PC,36276.11,28748.82,7527.290000000001,0.20749992212505697
+02-8721192,2019-11-24,Portugal,Clothing,"Schowalter, Lesch and Beahan",Celine Tumasian,Corene Shirer,PC,127631.89,110963.17,16668.72,0.13059996212545313
+76-0774122,2020-01-15,Sweden,Clothing,Stehr-Bogan,Maxie Marrow,Caro Morfield,Mobile,118982.14,95506.96,23475.179999999993,0.19730003175266467
+40-9114557,,Sweden,Appliances,Romaguera-Haley,Maxie Marrow,Caro Morfield,PC,122273.0,104531.19,17741.809999999998,0.14509998118963302
+64-8300193,,Sweden,Clothing,Gislason-Stanton,Maxie Marrow,Alyosha Meah,PC,127939.8,112267.17,15672.630000000005,0.12250003517279223
+61-3294149,2020-01-18,Portugal,Accessories,"Jacobson, Marvin and Brown",Celine Tumasian,Brynn Dempster,Mobile,107716.72,86679.64,21037.08,0.19530004255606745
+85-3690127,,Germany,Appliances,"Dickinson, Hyatt and Berge",Rickard Doogood,Casie MacBain,Mobile,80986.1,64124.79,16861.310000000005,0.2082000491442359
+95-1516475,2020-07-29,Spain,Beauty,Hessel-Stiedemann,Emalia Dinse,Manuel Goudie,Tablet,61325.25,49379.09,11946.160000000003,0.19480002119844606
+34-7627348,,Portugal,Books,Gislason-Stanton,Celine Tumasian,Aurelie Wren,PC,95387.89,76195.85,19192.039999999994,0.20119996364318357
+74-0191565,,Portugal,Clothing,Stehr LLC,Celine Tumasian,Corene Shirer,PC,284298.56,229656.38,54642.17999999999,0.19219998863166946
+35-1708827,,Netherlands,Appliances,Hessel-Stiedemann,Denice Amberg,Nero Harbisher,PC,118026.37,99873.91,18152.459999999992,0.15380003638170006
+30-4045249,2019-08-27,France,Books,"Schmitt, Purdy and Johnson",Othello Bowes,Avrit Chanders,PC,105464.41,84761.75,20702.660000000003,0.19629996507826672
+25-1045028,2019-07-23,Portugal,Games,Hegmann Group,Celine Tumasian,Smitty Culverhouse,PC,123891.6,104118.5,19773.100000000006,0.15960000516580627
+70-5224180,,Ireland,Beauty,Hessel-Stiedemann,Glenine Suttaby,Bunnie Tonbridge,Mobile,79375.17,64532.01,14843.159999999996,0.18700004044085822
+57-0945292,2020-09-20,Bulgaria,Books,"Dickinson, Hyatt and Berge",Charil Alpe,Shermy McGready,PC,128235.65,103024.52,25211.12999999999,0.19660000943575356
+17-3994138,2019-03-23,Sweden,Beauty,Schoen-Keeling,Maxie Marrow,Tarrah Castelletti,PC,121292.94,104384.7,16908.240000000005,0.13940003433011028
+52-3693331,,France,Clothing,McGlynn-Prosacco,Othello Bowes,Maighdiln Upcraft,PC,254021.98,205605.39,48416.59,0.1906000024092403
+45-8966277,,France,Smartphones,Kihn Inc,Othello Bowes,Crysta Halls,Tablet,154950.74,133195.66,21755.079999999987,0.1403999748565253
+55-2137809,2019-07-13,Portugal,Games,"Christiansen, Donnelly and Bechtelar",Celine Tumasian,Aurelie Wren,PC,165305.7,134757.21,30548.49000000002,0.18479997967402223
+87-1399932,2019-05-21,France,Books,Stehr LLC,Othello Bowes,Ora Grennan,PC,49374.25,39208.09,10166.160000000003,0.20590003898793408
+35-0173281,2020-11-28,Sweden,Smartphones,"Schowalter, Lesch and Beahan",Maxie Marrow,Caro Morfield,PC,169810.63,145952.24,23858.390000000014,0.14049997930047142
+83-0606533,2020-06-30,UK,Games,"Schowalter, Lesch and Beahan",Jessamine Apark,Winny Agnolo,PC,47082.67,37882.72,9199.949999999997,0.19539992103251574
+76-5324325,2019-11-14,Portugal,Books,Johns and Sons,Celine Tumasian,Aurelie Wren,PC,81458.94,64434.02,17024.920000000006,0.2090000189052301
+39-8642490,,UK,Books,Hessel-Stiedemann,Jessamine Apark,Jay Morefield,PC,128112.26,104975.19,23137.069999999992,0.1805999675597011
+33-4022317,2020-03-15,Sweden,Clothing,McGlynn-Bergstrom,Maxie Marrow,Tarrah Castelletti,PC,30975.79,27072.84,3902.9500000000007,0.12600001485030732
+31-7667796,2019-01-14,Portugal,Other,"Spencer, Rogahn and Muller",Celine Tumasian,Smitty Culverhouse,PC,45256.74,38975.1,6281.639999999999,0.1388000991675494
+19-0320558,2019-01-20,France,Smartphones,Johns and Sons,Othello Bowes,Amelina Piscopiello,PC,72749.07,59108.62,13640.450000000004,0.18749999140882492
+09-6527060,2020-01-23,UK,Beauty,Johns and Sons,Jessamine Apark,Jay Morefield,PC,150313.19,118927.8,31385.39,0.20879997290989566
+91-6738094,2019-08-31,Sweden,Appliances,Johns and Sons,Maxie Marrow,Anita Woakes,PC,36785.28,30546.5,6238.779999999999,0.16959990517946305
+46-5580805,2019-03-13,France,Electronics,"Lueilwitz, Kerluke and Lesch",Othello Bowes,Ora Grennan,PC,35214.85,27985.24,7229.609999999997,0.2053000367742585
+09-9618844,2020-03-24,Spain,Smartphones,"Leffler, Prohaska and Streich",Emalia Dinse,Perri Aldersley,PC,90926.92,73050.69,17876.229999999996,0.1965999728133318
+60-0610487,2020-01-18,Portugal,Beauty,Friesen-Rath,Celine Tumasian,Hortense Gerring,PC,37521.39,29701.93,7819.459999999999,0.20840006193800387
+89-7513050,2020-11-14,France,Smartphones,Larkin-Collier,Othello Bowes,Amelina Piscopiello,PC,68173.22,54040.91,14132.309999999998,0.20730002191476357
+90-3993986,2019-12-23,Sweden,Electronics,"Murray, Reichel and Nolan",Maxie Marrow,Tarrah Castelletti,PC,88832.28,71501.1,17331.179999999993,0.19510002445057126
+98-2574776,2019-06-15,Sweden,Smartphones,"Swaniawski, Runolfsson and Green",Maxie Marrow,Alyosha Meah,Tablet,159793.46,139180.1,20613.359999999986,0.12900002290456686
+22-1266257,,Portugal,Appliances,Romaguera-Dietrich,Celine Tumasian,Smitty Culverhouse,Mobile,177208.76,151779.3,25429.46000000002,0.14350001659060208
+69-1300467,2020-07-21,France,Electronics,"Christiansen, Donnelly and Bechtelar",Othello Bowes,Ora Grennan,PC,224626.25,189988.88,34637.369999999995,0.15420001001663872
+20-6735303,,France,Smartphones,"Swaniawski, Runolfsson and Green",Othello Bowes,Ora Grennan,PC,89369.0,72889.36,16479.64,0.18439995971757545
+91-6673445,2019-06-17,France,Games,"Rowe, Hermiston and Kessler",Othello Bowes,Maighdiln Upcraft,PC,65254.5,53919.79,11334.71,0.17370005133745564
+76-0164425,2019-01-17,Finland,Beauty,Johns and Sons,Hube Corey,Mellicent Mattys,Tablet,62011.86,49324.23,12687.629999999997,0.20460005553776323
+72-1300449,2020-07-31,Sweden,Appliances,Dibbert Inc,Maxie Marrow,Alyosha Meah,PC,128208.95,111746.92,16462.03,0.12840000639580934
+15-3943365,,Portugal,Outdoors,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,Tablet,136915.61,114790.05,22125.559999999983,0.1615999811854907
+44-0517932,,France,Beauty,McGlynn-Prosacco,Othello Bowes,Ora Grennan,Mobile,159926.16,126453.61,33472.55,0.20930002946359746
+46-1054213,2020-10-23,UK,Electronics,Smith Group,Jessamine Apark,Genevra Charrisson,PC,154715.49,126572.74,28142.749999999985,0.18190001531197675
+34-5793997,2020-05-20,UK,Clothing,Hessel-Stiedemann,Jessamine Apark,Genevra Charrisson,PC,81219.67,70319.99,10899.679999999993,0.1342000035213144
+50-2002828,2019-07-30,Portugal,Clothing,Hilll-Vandervort,Celine Tumasian,Hortense Gerring,PC,251003.51,214105.99,36897.52000000002,0.14700001605555243
+20-6477396,,Germany,Clothing,Altenwerth-Konopelski,Rickard Doogood,Casie MacBain,Tablet,51407.3,44292.53,7114.770000000004,0.1383999937752032
+15-3268783,2020-07-21,Sweden,Accessories,"Jacobson, Marvin and Brown",Maxie Marrow,Alyosha Meah,PC,79407.28,64383.42,15023.86,0.18920003304482916
+77-9240051,2020-11-18,UK,Clothing,"Swaniawski, Runolfsson and Green",Jessamine Apark,Jay Morefield,PC,50689.19,43597.77,7091.4200000000055,0.13990004574939954
+68-8279682,2020-04-27,UK,Accessories,Romaguera-Haley,Jessamine Apark,Winny Agnolo,PC,178465.4,156282.15,22183.25,0.12430000437059509
+36-7939842,2020-01-21,Portugal,Games,Wisoky Inc,Celine Tumasian,Smitty Culverhouse,PC,89600.45,70811.24,18789.209999999992,0.20969995128372673
+54-1473475,2019-01-16,France,Electronics,Considine-Fisher,Othello Bowes,Amelina Piscopiello,PC,151855.04,129486.79,22368.250000000015,0.14730001717427366
+77-1100434,2019-04-15,France,Games,Friesen-Rath,Othello Bowes,Crysta Halls,PC,147055.1,126114.45,20940.65000000001,0.14240002556864745
+18-0945763,2019-11-27,UK,Books,"Schmitt, Purdy and Johnson",Jessamine Apark,Winny Agnolo,PC,29783.39,23719.49,6063.899999999998,0.20360006030206762
+19-3013452,2020-09-30,Portugal,Beauty,"Rowe, Hermiston and Kessler",Celine Tumasian,Smitty Culverhouse,PC,154072.89,121887.06,32185.830000000016,0.2089000212821348
+48-7662634,,Bulgaria,Appliances,West-Cummings,Charil Alpe,Bernadine Fullagar,PC,278731.9,221591.86,57140.04000000004,0.20500000179383857
+95-4388709,,France,Books,"Zieme, Bailey and Herzog",Othello Bowes,Ora Grennan,PC,132235.46,114132.43,18103.03,0.13689996616641256
+20-7636879,2020-11-23,Portugal,Electronics,Tillman and Sons,Celine Tumasian,Aurelie Wren,Tablet,118321.11,94822.54,23498.570000000007,0.19859997932744214
+58-1975365,,France,Books,Franecki-White,Othello Bowes,Ora Grennan,PC,88977.22,72534.23,16442.990000000005,0.18479999712285913
+98-6563368,2020-06-13,Portugal,Games,"Leffler, Prohaska and Streich",Celine Tumasian,Corene Shirer,PC,204133.95,167553.15,36580.80000000002,0.1791999811888224
+22-0725785,2020-03-17,UK,Games,Franecki-White,Jessamine Apark,Genevra Charrisson,PC,102000.57,87261.49,14739.080000000002,0.14449997681385507
+42-2765593,2019-05-15,Sweden,Beauty,Wisoky Inc,Maxie Marrow,Tarrah Castelletti,PC,115226.8,94336.18,20890.62000000001,0.18130001006710253
+24-9702599,2019-10-30,France,Books,"Swaniawski, Runolfsson and Green",Othello Bowes,Amelina Piscopiello,PC,49664.17,39244.63,10419.54,0.20979994229240118
+58-1079558,2019-02-27,Sweden,Smartphones,"Dickinson, Hyatt and Berge",Maxie Marrow,Caro Morfield,PC,35354.22,30517.76,4836.460000000003,0.13680007648309037
+20-3125420,2019-09-13,France,Appliances,Connelly-Mohr,Othello Bowes,Amelina Piscopiello,Tablet,128804.51,105709.86,23094.649999999994,0.17930001053534533
+68-3583935,2019-02-26,France,Smartphones,"Rowe, Hermiston and Kessler",Othello Bowes,Amelina Piscopiello,PC,107499.78,91364.06,16135.720000000001,0.15010002811168546
+43-1236055,,Sweden,Clothing,Johns and Sons,Maxie Marrow,Madelon Bront,PC,50646.66,43039.53,7607.130000000005,0.15020003293405734
+85-4014655,2019-01-14,Bulgaria,Outdoors,Johns and Sons,Charil Alpe,Shermy McGready,PC,103874.1,82112.48,21761.62000000001,0.20949996197319648
+18-7077174,,UK,Accessories,"Murray, Reichel and Nolan",Jessamine Apark,Jay Morefield,PC,128227.36,106710.81,21516.550000000003,0.16779999213896318
+00-5823706,,France,Smartphones,Johns and Sons,Othello Bowes,Amelina Piscopiello,PC,140635.94,115194.9,25441.040000000008,0.1808999890070775
+42-2439801,,Sweden,Electronics,"Christiansen, Donnelly and Bechtelar",Maxie Marrow,Madelon Bront,PC,83782.11,67310.55,16471.559999999998,0.1965999662696487
+24-4272786,2019-12-19,Sweden,Smartphones,"Rowe, Hermiston and Kessler",Maxie Marrow,Tarrah Castelletti,PC,162101.93,133912.4,28189.53,0.1739000269768534
+34-0265266,2019-10-16,UK,Accessories,"Schowalter, Lesch and Beahan",Jessamine Apark,Genevra Charrisson,PC,62947.82,49967.98,12979.839999999997,0.2061999923110919
+17-8884817,2020-07-16,Portugal,Clothing,"Rowe, Hermiston and Kessler",Celine Tumasian,Hortense Gerring,PC,238085.99,193587.72,44498.26999999999,0.1868999935695502
+49-6263811,2020-02-13,Ireland,Outdoors,Altenwerth-Konopelski,Glenine Suttaby,Bunnie Tonbridge,Mobile,57107.26,48232.79,8874.470000000001,0.15540003144959152
+22-0156233,2020-01-27,UK,Books,Hilll-Vandervort,Jessamine Apark,Winny Agnolo,PC,133696.86,109310.55,24386.309999999983,0.18240002046420525
+91-7447818,2020-02-26,Bulgaria,Clothing,"Christiansen, Donnelly and Bechtelar",Charil Alpe,Shermy McGready,Mobile,65329.65,53237.13,12092.520000000004,0.18510002732296904
+96-0180648,2019-06-13,UK,Outdoors,Labadie and Sons,Jessamine Apark,Winny Agnolo,PC,124414.74,98959.48,25455.26000000001,0.20460003372590746
+13-0740797,2020-03-19,Portugal,Books,Kihn Inc,Celine Tumasian,Corene Shirer,PC,48090.78,42040.96,6049.82,0.12579999742154316
+17-5553034,2019-06-30,France,Games,"Bashirian, Okuneva and Bechtelar",Othello Bowes,Amelina Piscopiello,PC,214615.79,177637.49,36978.30000000002,0.1722999971250951
+51-0685379,,Sweden,Electronics,Hilll-Vandervort,Maxie Marrow,Alyosha Meah,PC,70596.7,60564.91,10031.789999999994,0.1420999848434841
+45-6860897,2019-03-23,Ireland,Clothing,Johns and Sons,Glenine Suttaby,Bunnie Tonbridge,Tablet,114232.68,95795.52,18437.15999999999,0.16140004769213145
+38-1449694,2020-08-29,Sweden,Clothing,Schuster Inc,Maxie Marrow,Alyosha Meah,PC,45463.65,36907.39,8556.260000000002,0.18820002353528592
+02-2183787,2019-02-25,Netherlands,Electronics,Konopelski LLC,Denice Amberg,Nero Harbisher,PC,23290.84,19147.4,4143.439999999999,0.1778999812801942
+23-8271333,,Portugal,Appliances,Johns and Sons,Celine Tumasian,Aurelie Wren,PC,103279.79,82334.65,20945.14,0.2027999863283998
+95-6935153,2019-03-16,Luxembourg,Clothing,O'Connell-Mitchell,Ilsa Kob,Jocelyn Laurentino,PC,76426.54,66116.6,10309.939999999988,0.13489999678122272
+58-8969119,,Sweden,Smartphones,Hegmann Group,Maxie Marrow,Alyosha Meah,PC,167123.72,132946.92,34176.79999999999,0.20449999557214252
+90-4449856,2019-08-24,France,Electronics,Littel-Blick,Othello Bowes,Amelina Piscopiello,PC,95966.17,75976.42,19989.75,0.2082999665402923
+13-0624842,2019-12-27,France,Smartphones,O'Connell-Mitchell,Othello Bowes,Ora Grennan,Mobile,268779.03,233676.49,35102.54000000004,0.13059999509634376
+44-6718687,2019-07-18,Ireland,Accessories,"Schowalter, Lesch and Beahan",Glenine Suttaby,Palm Wetherald,PC,226021.18,180455.31,45565.869999999995,0.20160000049552876
+33-6126082,2019-03-31,France,Appliances,"Spencer, Rogahn and Muller",Othello Bowes,Crysta Halls,PC,48850.38,39788.63,9061.75,0.18550009232272094
+59-2480731,,Sweden,Smartphones,Johns and Sons,Maxie Marrow,Anita Woakes,Tablet,19930.04,16543.93,3386.1100000000006,0.16989980953374909
+58-8728288,,France,Appliances,Romaguera-Haley,Othello Bowes,Ora Grennan,PC,40043.11,35109.8,4933.309999999998,0.12319997123100572
+22-4332301,2020-03-18,Germany,Appliances,Hessel-Stiedemann,Rickard Doogood,Casie MacBain,PC,86669.23,71580.12,15089.11,0.17409996604331204
+78-2307905,2019-02-15,Bulgaria,Appliances,"Murray, Reichel and Nolan",Charil Alpe,Shermy McGready,Unknown,98289.32,84116.0,14173.320000000007,0.1442000005697466
+31-6770318,2019-10-13,UK,Outdoors,Johns and Sons,Jessamine Apark,Genevra Charrisson,PC,105686.13,86694.33,18991.800000000003,0.1797000230777681
+93-2627296,2020-02-17,Bulgaria,Beauty,"Rowe, Hermiston and Kessler",Charil Alpe,Bernadine Fullagar,PC,126582.5,103683.73,22898.770000000004,0.1808999664250588
+32-2114915,2019-08-24,France,Beauty,Goldner-Dibbert,Othello Bowes,Crysta Halls,PC,53089.52,44812.86,8276.659999999996,0.15590007217997068
+22-3969127,2020-12-29,Sweden,Clothing,Johns and Sons,Maxie Marrow,Anita Woakes,PC,72885.55,59773.44,13112.11,0.1798999938945374
+44-5200140,2019-08-28,Portugal,Games,Hessel-Stiedemann,Celine Tumasian,Corene Shirer,PC,162246.76,142663.58,19583.180000000022,0.1206999757653097
+26-9990483,,Portugal,Smartphones,Johns and Sons,Celine Tumasian,Corene Shirer,PC,126346.44,103970.49,22375.949999999997,0.17709996419368837
+65-2343846,2019-12-22,Denmark,Smartphones,Gleichner-Green,Modestia Byfford,Case Desorts,PC,248261.86,206727.65,41534.20999999999,0.16730000331102005
+92-0523700,,Ireland,Clothing,"Dickinson, Hyatt and Berge",Glenine Suttaby,Bunnie Tonbridge,PC,63373.72,55572.41,7801.309999999998,0.12310007997005695
+37-5025811,2019-04-15,Spain,Clothing,"Hartmann, Hane and Pfannerstill",Emalia Dinse,Perri Aldersley,PC,85927.37,74490.44,11436.929999999993,0.13309996570359356
+84-7042200,2019-04-24,Portugal,Electronics,Hilll-Vandervort,Celine Tumasian,Aurelie Wren,PC,115718.87,100640.7,15078.169999999998,0.13030001070698322
+06-4416964,2020-11-29,Portugal,Games,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,PC,87409.49,70548.2,16861.290000000008,0.19289999289550833
+25-4970452,,Netherlands,Books,Altenwerth-Konopelski,Denice Amberg,Nero Harbisher,PC,253291.55,219502.46,33789.09,0.13339998906398573
+42-7823733,2019-12-19,UK,Other,Johns and Sons,Jessamine Apark,Winny Agnolo,PC,383996.76,304701.43,79295.33000000002,0.20649999755206272
+84-4478396,,Finland,Appliances,Kihn Inc,Hube Corey,Wat Bowkley,PC,53616.06,45589.74,8026.32,0.14969992200098253
+00-7031798,2019-06-22,Sweden,Games,Wisoky Inc,Maxie Marrow,Anita Woakes,PC,176473.32,139413.92,37059.399999999994,0.210000015866421
+53-7769693,2019-11-22,UK,Games,Tillman and Sons,Jessamine Apark,Jay Morefield,Unknown,29493.79,24285.19,5208.600000000002,0.17659988763736373
+05-2772504,2019-03-26,Portugal,Beauty,McClure Inc,Celine Tumasian,Corene Shirer,PC,52209.31,41480.3,10729.009999999995,0.2054999386124811
+90-2194359,2020-02-17,Portugal,Smartphones,"Murray, Reichel and Nolan",Celine Tumasian,Corene Shirer,PC,125253.59,108269.2,16984.39,0.1356000255162347
+79-3154360,2019-12-26,France,Electronics,Johns and Sons,Othello Bowes,Maighdiln Upcraft,PC,87404.0,69363.81,18040.190000000002,0.20640005034094552
+37-6449638,2019-10-21,France,Clothing,O'Connell-Mitchell,Othello Bowes,Ora Grennan,PC,167072.72,135044.88,32027.839999999997,0.19169999746218291
+30-2982340,2020-01-31,France,Games,"Schowalter, Lesch and Beahan",Othello Bowes,Amelina Piscopiello,PC,157932.84,134148.15,23784.690000000002,0.15060002720143575
+35-9372764,2020-12-23,Netherlands,Books,Hessel-Stiedemann,Denice Amberg,Nero Harbisher,PC,95575.75,75504.84,20070.910000000003,0.21000002615726274
+07-3201531,,France,Electronics,"Farrell, Swaniawski and Crist",Othello Bowes,Avrit Chanders,PC,69126.5,55902.6,13223.900000000001,0.19130000795642774
+77-0650807,2020-05-28,France,Appliances,Armstrong-Little,Othello Bowes,Avrit Chanders,Tablet,140943.88,120633.87,20310.01000000001,0.14409997794867013
+44-2757396,2020-05-22,France,Electronics,"Swaniawski, Runolfsson and Green",Othello Bowes,Ora Grennan,Tablet,124784.67,106853.11,17931.559999999998,0.1437000234083241
+22-7259031,2020-12-27,Germany,Electronics,Romaguera-Dietrich,Rickard Doogood,Casie MacBain,PC,61968.26,50690.04,11278.220000000001,0.18199994642418554
+60-6986682,2020-06-24,Netherlands,Outdoors,Kirlin and Sons,Denice Amberg,Nero Harbisher,PC,172453.1,145688.38,26764.72,0.1551999935054806
